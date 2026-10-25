@@ -2,7 +2,7 @@
 
 手机镜头、MR、增距镜、无人机、运动相机及舜宇光学同行动态的移动端新闻页，优先官方来源。
 
-公网地址：https://ningtaolu.github.io/optics-news/
+公网地址：https://christiedm.github.io/optics-news/
 
 ## 结构
 
@@ -31,7 +31,7 @@ python3 -m http.server 8000   # 打开 http://localhost:8000/
 
 ## 发布到 GitHub Pages
 
-推送到 `ningtaolu/optics-news` 的 `main` 分支，Settings → Pages → Source 选 “Deploy from a branch”，分支 `main`、目录 `/ (root)`。
+推送到 `ChristieDM/optics-news` 的 `main` 分支，Settings → Pages → Source 选 “Deploy from a branch”，分支 `main`、目录 `/ (root)`。
 
 
 ## v2 功能（2026-10-25）
