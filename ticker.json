@@ -1,0 +1,11 @@
+{
+  "label": "数据速览 · 摘自下方条目 · 非实时行情",
+  "items": [
+    {"id": "2026-10-23-sunny-stock", "label": "舜宇光学（港股）", "value": "63.15 港元", "delta": "+4.99%", "dir": 1, "asof": "10-23 收盘", "source": "长桥证券行情"},
+    {"id": "2026-10-23-insta360-stock", "label": "影石创新（A股）", "value": "105.89 元", "delta": "+8.85%", "dir": 1, "asof": "10-23 收盘", "source": "准上市行情"},
+    {"id": "2026-10-14-idc-global-q3", "label": "全球手机出货 Q3", "value": "2.553 亿部", "delta": "-22%", "dir": -1, "asof": "10-14", "source": "IDC"},
+    {"id": "2026-10-13-idc-china-q3", "label": "中国手机出货 Q3", "value": "约 5790 万台", "delta": "-15.4%", "dir": -1, "asof": "10-13", "source": "IDC"},
+    {"id": "2026-10-08-largan-q3", "label": "大立光 Q3 毛利率", "value": "42.2%", "delta": "营收年减 11%", "dir": -1, "asof": "10-08", "source": "大立光法说会"},
+    {"id": "2026-09-21-sunny-interim", "label": "舜宇 H1 营收", "value": "219.06 亿元", "delta": "+11.5%", "dir": 1, "asof": "09-21", "source": "舜宇中报"}
+  ]
+}
