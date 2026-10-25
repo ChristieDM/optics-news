@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25 19:10（北京时间）",
+  "updated": "2026-10-25 21:55（北京时间）",
   "subs": [
     "政策与地缘",
     "上下游供应链",
@@ -16,7 +16,27 @@
       "impact": "利空",
       "severity": "高",
       "source": "IDC 官方新闻稿",
-      "url": "https://www.idc.com/about/press-releases/"
+      "url": "https://www.idc.com/resource-center/press-releases/smartphone-shipments-decline-3q26/",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-10-25 21:55",
+        "points": [
+          {
+            "claim": "Q3 全球 -22%，小米/OPPO/vivo 降 29.2%-34.5%",
+            "verdict": "一致",
+            "source": "IDC 新闻稿",
+            "url": "https://www.idc.com/resource-center/press-releases/smartphone-shipments-decline-3q26/"
+          },
+          {
+            "claim": "存储成本较去年涨约 350%",
+            "verdict": "一致",
+            "source": "IDC 新闻稿",
+            "url": "https://www.idc.com/resource-center/press-releases/smartphone-shipments-decline-3q26/"
+          }
+        ],
+        "note": "链接已改为该条新闻稿原文。",
+        "corrected": true
+      }
     },
     {
       "id": "risk-2026-10-13-idc-china",
@@ -27,7 +47,27 @@
       "impact": "利空",
       "severity": "中",
       "source": "IDC 官方新闻稿",
-      "url": "https://www.idc.com/about/press-releases/"
+      "url": "https://www.idc.com/resource-center/press-releases/%e6%88%90%e6%9c%ac%e6%8e%a8%e9%ab%98%e5%94%ae%e4%bb%b7%ef%bc%8cq3%e4%b8%ad%e5%9b%bd%e6%89%8b%e6%9c%ba%e5%87%ba%e8%b4%a7%e8%b7%8c15-4%ef%bc%8c%e5%8d%8e%e4%b8%ba%e9%80%86%e5%8a%bf%e5%a2%9e%e9%95%bf/",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-10-25 21:55",
+        "points": [
+          {
+            "claim": "中国 Q3 出货 -15.4%，华为 +17.3%",
+            "verdict": "一致",
+            "source": "IDC 中文新闻稿",
+            "url": "https://www.idc.com/resource-center/press-releases/%e6%88%90%e6%9c%ac%e6%8e%a8%e9%ab%98%e5%94%ae%e4%bb%b7%ef%bc%8cq3%e4%b8%ad%e5%9b%bd%e6%89%8b%e6%9c%ba%e5%87%ba%e8%b4%a7%e8%b7%8c15-4%ef%bc%8c%e5%8d%8e%e4%b8%ba%e9%80%86%e5%8a%bf%e5%a2%9e%e9%95%bf/"
+          },
+          {
+            "claim": "同上数字",
+            "verdict": "一致",
+            "source": "IDC 英文新闻稿",
+            "url": "https://www.idc.com/resource-center/press-releases/china-smartphone-shipments-q3-2026/"
+          }
+        ],
+        "note": "链接已改为该条新闻稿原文。",
+        "corrected": true
+      }
     },
     {
       "id": "risk-2026-09-21-sunny-memory",
@@ -38,7 +78,25 @@
       "impact": "利空",
       "severity": "中",
       "source": "舜宇 2026 中期报告（港交所）",
-      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0921/2026092100313.pdf"
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0921/2026092100313.pdf",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-10-25 21:55",
+        "points": [
+          {
+            "claim": "引 IDC：上半年全球手机出货约 5.67 亿部、-5.3%，高端更具韧性",
+            "verdict": "一致",
+            "source": "舜宇 2026 中报（港交所）",
+            "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0921/2026092100313.pdf"
+          },
+          {
+            "claim": "手机产品收入 131.49 亿元（微降）",
+            "verdict": "一致",
+            "source": "舜宇 2026 中报（港交所）",
+            "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0921/2026092100313.pdf"
+          }
+        ]
+      }
     },
     {
       "id": "risk-2026-10-19-mofcom-uav",
@@ -49,7 +107,25 @@
       "impact": "利空",
       "severity": "中",
       "source": "商务部公告",
-      "url": "https://www.mofcom.gov.cn/zcfb/blgg/gg/2026/art/2026/art_7f1108392a314a2586e106b81b68f54f.html"
+      "url": "https://www.mofcom.gov.cn/zcfb/blgg/gg/2026/art/2026/art_7f1108392a314a2586e106b81b68f54f.html",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-10-25 21:55",
+        "points": [
+          {
+            "claim": "2026 年第 49 号公告，11 月 18 日实施",
+            "verdict": "一致",
+            "source": "商务部公告",
+            "url": "https://www.mofcom.gov.cn/zcfb/blgg/gg/2026/art/2026/art_7f1108392a314a2586e106b81b68f54f.html"
+          },
+          {
+            "claim": "含自动驾驶仪、云台稳定、任务载荷技术；续航 ≥30 分钟且抗 25 节阵风",
+            "verdict": "一致",
+            "source": "商务部公告",
+            "url": "https://www.mofcom.gov.cn/zcfb/blgg/gg/2026/art/2026/art_7f1108392a314a2586e106b81b68f54f.html"
+          }
+        ]
+      }
     },
     {
       "id": "risk-2026-10-19-mofcom-customs",
@@ -60,7 +136,25 @@
       "impact": "中性",
       "severity": "低",
       "source": "商务部公告",
-      "url": "https://www.mofcom.gov.cn/zcfb/blgg/gg/2026/art/2026/art_92d6cb97a5de472d8ffeaf93be12a30f.html"
+      "url": "https://www.mofcom.gov.cn/zcfb/blgg/gg/2026/art/2026/art_92d6cb97a5de472d8ffeaf93be12a30f.html",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-10-25 21:55",
+        "points": [
+          {
+            "claim": "2026 年第 52 号公告：发货人 7 个工作日提交、海关 15 个工作日判别",
+            "verdict": "一致",
+            "source": "商务部公告",
+            "url": "https://www.mofcom.gov.cn/zcfb/blgg/gg/2026/art/2026/art_92d6cb97a5de472d8ffeaf93be12a30f.html"
+          },
+          {
+            "claim": "质疑期间不予放行",
+            "verdict": "一致",
+            "source": "商务部公告",
+            "url": "https://www.mofcom.gov.cn/zcfb/blgg/gg/2026/art/2026/art_92d6cb97a5de472d8ffeaf93be12a30f.html"
+          }
+        ]
+      }
     },
     {
       "id": "risk-2026-10-07-ustr-301",
@@ -71,7 +165,25 @@
       "impact": "利空",
       "severity": "中",
       "source": "美国联邦公报（USTR）",
-      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20510/continuation-of-actions-chinas-acts-policies-and-practices-related-to-technology-transfer"
+      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20510/continuation-of-actions-chinas-acts-policies-and-practices-related-to-technology-transfer",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-10-25 21:55",
+        "points": [
+          {
+            "claim": "2018 年 7 月、8 月两批 301 措施未终止、继续有效",
+            "verdict": "一致",
+            "source": "美国联邦公报",
+            "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20510/continuation-of-actions-chinas-acts-policies-and-practices-related-to-technology-transfer"
+          },
+          {
+            "claim": "进入第二次四年审查",
+            "verdict": "一致",
+            "source": "美国联邦公报",
+            "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20510/continuation-of-actions-chinas-acts-policies-and-practices-related-to-technology-transfer"
+          }
+        ]
+      }
     },
     {
       "id": "risk-2026-10-19-nbs-retail",
@@ -82,7 +194,31 @@
       "impact": "利好",
       "severity": "中",
       "source": "国家统计局",
-      "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965614.html"
+      "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965614.html",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-10-25 21:55",
+        "points": [
+          {
+            "claim": "9 月社零 42433 亿元、+1.1%；通讯器材 +31.1%",
+            "verdict": "一致",
+            "source": "国家统计局",
+            "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965614.html"
+          },
+          {
+            "claim": "为去年 6 月以来最高；以旧换新政策成效持续显现",
+            "verdict": "一致",
+            "source": "国家统计局数据解读",
+            "url": "https://www.stats.gov.cn/xxgk/jd/sjjd2020/202610/t20261019_1965633.html"
+          },
+          {
+            "claim": "前三季度通讯器材 +18.1%",
+            "verdict": "一致",
+            "source": "国家统计局",
+            "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965614.html"
+          }
+        ]
+      }
     },
     {
       "id": "risk-2026-10-20-lpr",
@@ -93,7 +229,25 @@
       "impact": "中性",
       "severity": "低",
       "source": "中国人民银行",
-      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/2026102008303870640/index.html"
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/2026102008303870640/index.html",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-10-25 21:55",
+        "points": [
+          {
+            "claim": "10 月 LPR：1 年期 3.0%、5 年期以上 3.5%",
+            "verdict": "一致",
+            "source": "中国人民银行",
+            "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/2026102008303870640/index.html"
+          },
+          {
+            "claim": "2025 年 5 月下调后连续 17 个月未变",
+            "verdict": "一致",
+            "source": "经济参考报（新华社）",
+            "url": "http://jjckb.xinhuanet.com/20261020/a30bd84bac73453db40ccbb59b6f4fb9/c.html"
+          }
+        ]
+      }
     },
     {
       "id": "risk-2026-10-08-largan",
@@ -104,7 +258,25 @@
       "impact": "中性",
       "severity": "低",
       "source": "大立光法说会简报",
-      "url": "https://www.largan.com.tw/tw/tool-download/investor_shareholder_1/file/18/%E6%9C%AC%E5%85%AC%E5%8F%B82026%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E4%B8%AD%E6%96%87%E7%B7%9A%E4%B8%8A%E6%B3%95%E8%AA%AA%E6%9C%83%E5%B7%B2%E8%A8%82%E6%96%BC%E5%8D%81%E6%9C%88%E5%85%AB%E6%97%A5%EF%BC%88%E6%98%9F%E6%9C%9F%E5%9B%9B%EF%BC%89%E4%B8%8B%E5%8D%88%E5%85%A9%E9%BB%9E%E4%B8%89%E5%8D%81%E5%88%86%E8%88%89%E8%A1%8C%E7%B0%A1%E5%A0%B1%E8%B3%87%E6%96%99?note=%E7%B0%A1%E5%A0%B1%E8%B3%87%E6%96%99"
+      "url": "https://www.largan.com.tw/tw/tool-download/investor_shareholder_1/file/18/%E6%9C%AC%E5%85%AC%E5%8F%B82026%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E4%B8%AD%E6%96%87%E7%B7%9A%E4%B8%8A%E6%B3%95%E8%AA%AA%E6%9C%83%E5%B7%B2%E8%A8%82%E6%96%BC%E5%8D%81%E6%9C%88%E5%85%AB%E6%97%A5%EF%BC%88%E6%98%9F%E6%9C%9F%E5%9B%9B%EF%BC%89%E4%B8%8B%E5%8D%88%E5%85%A9%E9%BB%9E%E4%B8%89%E5%8D%81%E5%88%86%E8%88%89%E8%A1%8C%E7%B0%A1%E5%A0%B1%E8%B3%87%E6%96%99?note=%E7%B0%A1%E5%A0%B1%E8%B3%87%E6%96%99",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-10-25 21:55",
+        "points": [
+          {
+            "claim": "Q3 营收年减 11%、毛利率 42.2%",
+            "verdict": "一致",
+            "source": "大立光法说会简报",
+            "url": "https://www.largan.com.tw/tw/tool-download/investor_shareholder_1/file/18/%E6%9C%AC%E5%85%AC%E5%8F%B82026%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E4%B8%AD%E6%96%87%E7%B7%9A%E4%B8%8A%E6%B3%95%E8%AA%AA%E6%9C%83%E5%B7%B2%E8%A8%82%E6%96%BC%E5%8D%81%E6%9C%88%E5%85%AB%E6%97%A5%EF%BC%88%E6%98%9F%E6%9C%9F%E5%9B%9B%EF%BC%89%E4%B8%8B%E5%8D%88%E5%85%A9%E9%BB%9E%E4%B8%89%E5%8D%81%E5%88%86%E8%88%89%E8%A1%8C%E7%B0%A1%E5%A0%B1%E8%B3%87%E6%96%99?note=%E7%B0%A1%E5%A0%B1%E8%B3%87%E6%96%99"
+          },
+          {
+            "claim": "加码 CPO 光纤阵列，2027 年量产",
+            "verdict": "一致",
+            "source": "中央社",
+            "url": "https://www.cna.com.tw/news/afe/202610080326.aspx"
+          }
+        ]
+      }
     },
     {
       "id": "risk-2026-08-20-aac",
@@ -115,7 +287,25 @@
       "impact": "利空",
       "severity": "低",
       "source": "瑞声科技中期业绩（港交所）",
-      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000181.pdf"
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000181.pdf",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-10-25 21:55",
+        "points": [
+          {
+            "claim": "取得客户旗舰主摄、潜望、云台主摄模组项目；首次获大客户旗舰 5P 镜头定点",
+            "verdict": "一致",
+            "source": "瑞声中报（港交所）",
+            "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000181.pdf"
+          },
+          {
+            "claim": "32MP 以上模组占比超 50%",
+            "verdict": "一致",
+            "source": "瑞声中报（港交所）",
+            "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000181.pdf"
+          }
+        ]
+      }
     }
   ]
 }
