@@ -1,6 +1,6 @@
 {
   "schema": 3,
-  "updated": "2026-10-25 21:55（北京时间）",
+  "updated": "2026-10-26 08:06（北京时间）",
   "categories": [
     "手机镜头",
     "MR",
@@ -14,26 +14,21 @@
   "headlines": [
     {
       "rank": 1,
-      "note": "需求端承压：IDC Q3 全球 -22%、中国 -15.4%"
+      "note": "同行信号：丘钛 9 月手机摄像头模组同比 -16.7%"
     },
     {
       "rank": 2,
-      "note": "同行风向：大立光 Q3 营收年减 11%、毛利率 42.2%"
-    },
-    {
-      "rank": 3,
-      "note": "增距镜成旗舰标配：vivo X500 等效 400mm"
+      "note": "果链业绩：蓝思 Q3 净利 -50.42%，环比回升约 16%"
     }
   ],
-  "note": "已按官方优先原则复核：移除传闻类条目（如苹果 iPhone 18 Pro 砍单报道），舜宇中报数字已对照港交所原文核实。舜宇已停发月度出货公告；水晶光电、欧菲光、蓝特光学、联创电子、宇瞳光学三季报截至 10 月 25 日尚未披露。未标“官方”的条目为行情数据、评测或对官方活动的媒体报道。10/25 起每条新闻附「事实核查」：已逐条打开原文复核，更正 2 处（舜宇股价周期日期、Osmo Pocket 4P 售价与来源）。",
+  "note": "10/26（周一）首轮刷新：新增蓝思科技三季报（10/25），补录丘钛 9 月出货公告（10/12 发布，此前漏收）；两条均已对照交易所/公司原文核查。周末舜宇无新公告；水晶光电、欧菲光、蓝特光学、联创电子、宇瞳光学、影石创新三季报截至 10 月 26 日 08:00 尚未披露。来源规则：官方优先，不收录传闻；未标“官方”的条目为行情数据、评测或对官方活动的媒体报道。每条新闻附「事实核查」。“分析”部分为我们的判断，不是新闻事实。",
   "brief": [
-    "需求：Q3 全球手机出货 -22%、中国 -15.4%，存储涨价拖累，IDC 称复苏最早 2028 年——手机业务进入下行期。",
-    "同行：大立光 Q3 营收年减 11% 并预告 11 月拉货下滑，同时加速转向光通讯；瑞声靠提价对冲量减。",
-    "机会：vivo X500（等效 400mm）与 OPPO（等效 230mm）都把增距镜做成卖点，舜宇已量产 200/400mm 拓展镜头。",
-    "多元化：舜宇上半年营收 +11.5%，增长来自汽车、XR 与其他业务；手持智能相机出货 +57%。",
-    "市场：舜宇 10/23 涨 4.99% 收 63.15 港元，平均目标价 83.88 港元（行情数据，非实时）。"
+    "需求：模组同行丘钛 9 月手机摄像头模组出货同比 -16.7%，公司明确归因存储涨价——安卓客户仍在减量。",
+    "亮点：丘钛汽车产品 9 月 +29.2%，XR 与手持影像带动 IoT 产品 +4.1%——增长在手机以外。",
+    "果链：蓝思科技 Q3 净利 8.43 亿元、同比 -50.42%，但环比回升约 16%，存货较期初 +35%，旺季备货在进行。",
+    "舜宇：周末无新公告；已停发月度出货，丘钛等同行月报是目前最近的需求信号。"
   ],
-  "edition": "2026-10-25",
+  "edition": "2026-10-26",
   "briefs": {
     "2026-10-25": [
       "需求：Q3 全球手机出货 -22%、中国 -15.4%，存储涨价拖累，IDC 称复苏最早 2028 年——手机业务进入下行期。",
@@ -41,6 +36,12 @@
       "机会：vivo X500（等效 400mm）与 OPPO（等效 230mm）都把增距镜做成卖点，舜宇已量产 200/400mm 拓展镜头。",
       "多元化：舜宇上半年营收 +11.5%，增长来自汽车、XR 与其他业务；手持智能相机出货 +57%。",
       "市场：舜宇 10/23 涨 4.99% 收 63.15 港元，平均目标价 83.88 港元（行情数据，非实时）。"
+    ],
+    "2026-10-26": [
+      "需求：模组同行丘钛 9 月手机摄像头模组出货同比 -16.7%，公司明确归因存储涨价——安卓客户仍在减量。",
+      "亮点：丘钛汽车产品 9 月 +29.2%，XR 与手持影像带动 IoT 产品 +4.1%——增长在手机以外。",
+      "果链：蓝思科技 Q3 净利 8.43 亿元、同比 -50.42%，但环比回升约 16%，存货较期初 +35%，旺季备货在进行。",
+      "舜宇：周末无新公告；已停发月度出货，丘钛等同行月报是目前最近的需求信号。"
     ]
   },
   "summaries": {
@@ -54,267 +55,108 @@
       "财报与股市": "股价回暖：舜宇 10/23 涨 4.99% 收 63.15 港元，同行营收走弱",
       "发布会与市场反响": "长焦成卖点：vivo、OPPO 推增距镜，苹果折叠屏 10/16 开预购",
       "风险观察": "首要风险是存储涨价压需求；无人机出口管制 11/18 实施"
+    },
+    "2026-10-26": {
+      "手机镜头": "需求仍弱：丘钛 9 月手机摄像头模组出货同比 -16.7%",
+      "舜宇及同行": "同行减量：丘钛 9 月模组 -16.7%，汽车产品逆势 +29.2%",
+      "财报与股市": "果链承压：蓝思 Q3 净利 -50.42%，环比回升约 16%",
+      "风险观察": "首要风险未变：存储涨价压制手机需求；无人机管制 11/18 生效"
     }
   },
   "items": [
     {
-      "id": "2026-10-14-idc-global-q3",
-      "date": "2026-10-14",
+      "id": "2026-10-25-lens-q3",
+      "date": "2026-10-25",
       "cats": [
-        "手机镜头"
-      ],
-      "title": "全球手机需求创最大单季降幅：Q3 出货 2.553 亿部，同比 -22%",
-      "summary": "IDC 称存储成本较去年涨约 350%，推高手机售价、压制需求，市场尚未见底，复苏最早要到 2028 年。安卓三家降幅约三成（小米 -29.2%、OPPO -34.5%、vivo -31.5%），三星、苹果份额升至 22.6% 与 22.4%。",
-      "source": "IDC 官方新闻稿",
-      "url": "https://www.idc.com/resource-center/press-releases/smartphone-shipments-decline-3q26/",
-      "official": true,
-      "tags": [
-        "IDC",
-        "小米",
-        "OPPO",
-        "vivo",
-        "苹果"
-      ],
-      "headline": 1,
-      "impact": {
-        "dir": "利空",
-        "text": "安卓客户集体减量，手机镜头与模组订单量和价格同时承压。"
-      },
-      "takeaway": "把四季度与明年手机业务预算按需求下行情景编制，销售资源向份额上升的客户倾斜。",
-      "edition": "2026-10-25",
-      "factcheck": {
-        "status": "已核实",
-        "checked": "2026-10-25 21:55",
-        "points": [
-          {
-            "claim": "Q3 全球出货 2.553 亿部，同比 -22.0%",
-            "verdict": "一致",
-            "source": "IDC 新闻稿",
-            "url": "https://www.idc.com/resource-center/press-releases/smartphone-shipments-decline-3q26/"
-          },
-          {
-            "claim": "小米 -29.2%、OPPO -34.5%、vivo -31.5%；存储成本涨约 350%",
-            "verdict": "一致",
-            "source": "IDC 新闻稿",
-            "url": "https://www.idc.com/resource-center/press-releases/smartphone-shipments-decline-3q26/"
-          }
-        ],
-        "note": "原链接为 IDC 新闻稿列表页，已改为该条新闻稿原文。",
-        "corrected": true
-      }
-    },
-    {
-      "id": "2026-10-13-idc-china-q3",
-      "date": "2026-10-13",
-      "cats": [
-        "手机镜头"
-      ],
-      "title": "中国手机市场同样下滑：Q3 出货约 5790 万台，同比 -15.4%，仅华为逆势 +17.3%",
-      "summary": "存储涨价推高售价、压制需求；华为是头部厂商中唯一实现双位数增长的品牌。",
-      "source": "IDC 官方新闻稿",
-      "url": "https://www.idc.com/resource-center/press-releases/%e6%88%90%e6%9c%ac%e6%8e%a8%e9%ab%98%e5%94%ae%e4%bb%b7%ef%bc%8cq3%e4%b8%ad%e5%9b%bd%e6%89%8b%e6%9c%ba%e5%87%ba%e8%b4%a7%e8%b7%8c15-4%ef%bc%8c%e5%8d%8e%e4%b8%ba%e9%80%86%e5%8a%bf%e5%a2%9e%e9%95%bf/",
-      "official": true,
-      "tags": [
-        "IDC",
-        "华为"
-      ],
-      "headline": 1,
-      "impact": {
-        "dir": "利空",
-        "text": "国内整体需求下滑，订单向少数增长品牌集中，客户结构决定出货表现。"
-      },
-      "takeaway": "重点跟踪增长品牌的新机项目，评估国内客户组合的集中度风险。",
-      "edition": "2026-10-25",
-      "factcheck": {
-        "status": "已核实",
-        "checked": "2026-10-25 21:55",
-        "points": [
-          {
-            "claim": "Q3 中国出货 5790 万部，同比 -15.4%",
-            "verdict": "一致",
-            "source": "IDC 中文新闻稿",
-            "url": "https://www.idc.com/resource-center/press-releases/%e6%88%90%e6%9c%ac%e6%8e%a8%e9%ab%98%e5%94%ae%e4%bb%b7%ef%bc%8cq3%e4%b8%ad%e5%9b%bd%e6%89%8b%e6%9c%ba%e5%87%ba%e8%b4%a7%e8%b7%8c15-4%ef%bc%8c%e5%8d%8e%e4%b8%ba%e9%80%86%e5%8a%bf%e5%a2%9e%e9%95%bf/"
-          },
-          {
-            "claim": "华为逆势增长 17.3%",
-            "verdict": "一致",
-            "source": "IDC 英文新闻稿",
-            "url": "https://www.idc.com/resource-center/press-releases/china-smartphone-shipments-q3-2026/"
-          }
-        ],
-        "note": "中英文两版新闻稿数字一致；链接已改为原文。",
-        "corrected": true
-      }
-    },
-    {
-      "id": "2026-10-08-largan-q3",
-      "date": "2026-10-08",
-      "cats": [
-        "舜宇及同行",
-        "财报与股市",
-        "手机镜头"
-      ],
-      "title": "头号同行大立光 Q3 营收年减 11%，并预告 11 月拉货下滑",
-      "summary": "Q3 营收 156.51 亿新台币，毛利率 42.2%，净利 51.82 亿新台币；前三季营收仍年增 2%。管理层在法说会上表示 11 月拉货将下滑。",
-      "source": "大立光法说会简报",
-      "url": "https://www.largan.com.tw/tw/tool-download/investor_shareholder_1/file/18/%E6%9C%AC%E5%85%AC%E5%8F%B82026%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E4%B8%AD%E6%96%87%E7%B7%9A%E4%B8%8A%E6%B3%95%E8%AA%AA%E6%9C%83%E5%B7%B2%E8%A8%82%E6%96%BC%E5%8D%81%E6%9C%88%E5%85%AB%E6%97%A5%EF%BC%88%E6%98%9F%E6%9C%9F%E5%9B%9B%EF%BC%89%E4%B8%8B%E5%8D%88%E5%85%A9%E9%BB%9E%E4%B8%89%E5%8D%81%E5%88%86%E8%88%89%E8%A1%8C%E7%B0%A1%E5%A0%B1%E8%B3%87%E6%96%99?note=%E7%B0%A1%E5%A0%B1%E8%B3%87%E6%96%99",
-      "official": true,
-      "tags": [
-        "大立光"
+        "财报与股市"
       ],
       "headline": 2,
-      "impact": {
-        "dir": "中性",
-        "text": "同行降温印证行业需求转弱；对手若为保量降价，镜头价格竞争可能加剧。"
-      },
-      "takeaway": "关注大立光报价动作，提前准备价格应对与差异化卖点。",
-      "edition": "2026-10-25",
-      "factcheck": {
-        "status": "已核实",
-        "checked": "2026-10-25 21:55",
-        "points": [
-          {
-            "claim": "Q3 营收 156.51 亿新台币（-11%），毛利率 42.2%，净利 51.82 亿",
-            "verdict": "一致",
-            "source": "大立光法说会简报",
-            "url": "https://www.largan.com.tw/tw/tool-download/investor_shareholder_1/file/18/%E6%9C%AC%E5%85%AC%E5%8F%B82026%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E4%B8%AD%E6%96%87%E7%B7%9A%E4%B8%8A%E6%B3%95%E8%AA%AA%E6%9C%83%E5%B7%B2%E8%A8%82%E6%96%BC%E5%8D%81%E6%9C%88%E5%85%AB%E6%97%A5%EF%BC%88%E6%98%9F%E6%9C%9F%E5%9B%9B%EF%BC%89%E4%B8%8B%E5%8D%88%E5%85%A9%E9%BB%9E%E4%B8%89%E5%8D%81%E5%88%86%E8%88%89%E8%A1%8C%E7%B0%A1%E5%A0%B1%E8%B3%87%E6%96%99?note=%E7%B0%A1%E5%A0%B1%E8%B3%87%E6%96%99"
-          },
-          {
-            "claim": "前三季营收 +2%；11 月拉货下滑",
-            "verdict": "一致",
-            "source": "中央社",
-            "url": "https://www.cna.com.tw/news/afe/202610080326.aspx"
-          }
-        ],
-        "note": "简报未提 11 月展望，该点以中央社法说会报道为据。"
-      }
-    },
-    {
-      "id": "2026-10-09-largan-cpo",
-      "date": "2026-10-09",
-      "cats": [
-        "舜宇及同行"
-      ],
-      "title": "大立光加速转向光通讯：光纤阵列通过客户认证，规划 2027 年量产",
-      "summary": "董事长林恩平称客户 9 月下修手机需求，公司加速布局 CPO 光通讯业务；Q3 资本支出 81.8 亿新台币（含购地款）。",
-      "source": "自由财经（法说会报道）",
-      "url": "https://ec.ltn.com.tw/article/paper/1773790",
-      "official": false,
-      "tags": [
-        "大立光",
-        "CPO"
-      ],
-      "impact": {
-        "dir": "中性",
-        "text": "同行把资源移向光通讯，手机镜头竞争压力或略减，同时在新赛道多了一个对手。"
-      },
-      "takeaway": "评估光通讯等非手机业务的布局节奏，作为对冲手机下行的第二增长点。",
-      "edition": "2026-10-25",
-      "factcheck": {
-        "status": "已核实",
-        "checked": "2026-10-25 21:55",
-        "points": [
-          {
-            "claim": "光纤阵列（FA）通过客户认证，FA / FAU 规划 2027 年量产",
-            "verdict": "一致",
-            "source": "自由时报",
-            "url": "https://ec.ltn.com.tw/article/paper/1773790"
-          },
-          {
-            "claim": "FA 产能 2027 年 Q2 底到位，FAU 2027 下半年",
-            "verdict": "一致",
-            "source": "中央社",
-            "url": "https://www.cna.com.tw/news/afe/202610080326.aspx"
-          },
-          {
-            "claim": "客户 9 月下修需求；Q3 资本支出 81.8 亿（含土地）",
-            "verdict": "一致",
-            "source": "自由时报",
-            "url": "https://ec.ltn.com.tw/article/paper/1773790"
-          }
-        ],
-        "note": "自由时报原文对脚本访问返回 403，经浏览器方式打开核对。"
-      }
-    },
-    {
-      "id": "2026-10-05-largan-sep",
-      "date": "2026-10-05",
-      "cats": [
-        "舜宇及同行",
-        "财报与股市"
-      ],
-      "title": "大立光 9 月营收回升至 11 个月高点，但同比仍降 7%",
-      "summary": "9 月营收 57.79 亿新台币，月增 15%；公司预估 10 月动能与 9 月相当。",
-      "source": "中央社",
-      "url": "https://www.cna.com.tw/news/afe/202610050217.aspx",
-      "official": false,
-      "tags": [
-        "大立光"
-      ],
-      "impact": {
-        "dir": "中性",
-        "text": "短期旺季拉货仍在，但同比走弱，说明需求回升有限。"
-      },
-      "takeaway": "四季度排产以稳为主，避免按旺季峰值备料。",
-      "edition": "2026-10-25",
-      "factcheck": {
-        "status": "已核实",
-        "checked": "2026-10-25 21:55",
-        "points": [
-          {
-            "claim": "9 月营收 57.79 亿新台币，11 个月新高，月增 15%、年减 7%",
-            "verdict": "一致",
-            "source": "中央社",
-            "url": "https://www.cna.com.tw/news/afe/202610050217.aspx"
-          },
-          {
-            "claim": "Q3 营收 156.51 亿，前 9 月 448.60 亿",
-            "verdict": "一致",
-            "source": "大立光法说会简报",
-            "url": "https://www.largan.com.tw/tw/tool-download/investor_shareholder_1/file/18/%E6%9C%AC%E5%85%AC%E5%8F%B82026%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E4%B8%AD%E6%96%87%E7%B7%9A%E4%B8%8A%E6%B3%95%E8%AA%AA%E6%9C%83%E5%B7%B2%E8%A8%82%E6%96%BC%E5%8D%81%E6%9C%88%E5%85%AB%E6%97%A5%EF%BC%88%E6%98%9F%E6%9C%9F%E5%9B%9B%EF%BC%89%E4%B8%8B%E5%8D%88%E5%85%A9%E9%BB%9E%E4%B8%89%E5%8D%81%E5%88%86%E8%88%89%E8%A1%8C%E7%B0%A1%E5%A0%B1%E8%B3%87%E6%96%99?note=%E7%B0%A1%E5%A0%B1%E8%B3%87%E6%96%99"
-          }
-        ]
-      }
-    },
-    {
-      "id": "2026-10-09-gseo-sep",
-      "date": "2026-10-09",
-      "cats": [
-        "舜宇及同行",
-        "财报与股市"
-      ],
-      "title": "玉晶光 9 月营收持平：26.72 亿新台币，同比 +0.54%",
-      "summary": "月减 1.75%；前 9 月累计 196.36 亿新台币，同比 +10.12%。",
-      "source": "玉晶光投资人专区",
-      "url": "https://www.gseo.com/tw/investor-relations",
+      "title": "果链大厂蓝思科技 Q3 净利同比 -50.42%，但环比回升约 16%",
+      "summary": "Q3 营收 190.35 亿元（-8.05%），归母净利 8.43 亿元；前三季营收 479.02 亿元（-10.74%）、净利 14.20 亿元（-50.06%）。公司称汇兑净损失增加；期末存货较期初 +35.02%，为下半年旺季备货。",
+      "source": "蓝思科技 2026 年三季报（深交所）",
+      "url": "https://disc.static.szse.cn/download/disc/disk03/finalpage/2026-10-26/4463ab5d-0d79-442f-a7b2-85fc1dba749a.PDF",
       "official": true,
       "tags": [
-        "玉晶光"
+        "蓝思科技",
+        "苹果供应链"
       ],
       "impact": {
         "dir": "中性",
-        "text": "同行营收持平，竞争格局暂无明显变化。"
+        "text": "蓝思做玻璃与结构件，不直接争夺舜宇镜头订单；其利润同比腰斩、环比回升，说明消费电子链同比承压，但旺季备货在进行。"
       },
-      "takeaway": "持续按月跟踪台系同行营收，作为行业需求的先行信号。",
+      "takeaway": "消费电子链普遍“减量保利”，舜宇对外沟通宜突出利润率与非手机业务增长。",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-10-26 08:05",
+        "points": [
+          {
+            "claim": "Q3 营收 190.35 亿元同比 -8.05%，归母净利 8.43 亿元同比 -50.42%",
+            "verdict": "一致",
+            "source": "深交所三季报原文；港交所版（AASTOCKS 存档）",
+            "url": "https://disc.static.szse.cn/download/disc/disk03/finalpage/2026-10-26/4463ab5d-0d79-442f-a7b2-85fc1dba749a.PDF"
+          },
+          {
+            "claim": "前三季营收 479.02 亿元（-10.74%）、净利 14.20 亿元（-50.06%）",
+            "verdict": "一致",
+            "source": "每日经济新闻",
+            "url": "https://www.nbd.com.cn/articles/2026-10-25/4616322.html"
+          },
+          {
+            "claim": "Q3 净利环比 +16%（Q2 为 7.26 亿元），存货较期初 +35.02%",
+            "verdict": "一致",
+            "source": "每日经济新闻（引三季报）",
+            "url": "https://www.nbd.com.cn/articles/2026-10-25/4616897.html"
+          }
+        ],
+        "note": "港交所版三季报（H 股 6613，2026-10-25）亦已打开核对：https://iis.aastocks.com/20261025/12382344-0.PDF"
+      },
+      "edition": "2026-10-26"
+    },
+    {
+      "id": "2026-10-23-insta360-stock",
+      "date": "2026-10-23",
+      "cats": [
+        "运动相机",
+        "财报与股市"
+      ],
+      "title": "影石创新一周两次大涨，10/23 +8.85% 收 105.89 元，市值 424.62 亿元",
+      "summary": "10/20 +8.97%。半年报：上半年营收 55.17 亿元（+50.29%），归母净利 3040.73 万元（-94.15%）。行情数据。",
+      "source": "准上市行情",
+      "url": "https://www.zhunshangshi.com/hq/detail.php?ts_code=688775.SH",
+      "official": false,
+      "tags": [
+        "影石创新"
+      ],
+      "impact": {
+        "dir": "中性",
+        "text": "资本市场看好全景相机赛道，但客户利润承压，可能传导为对供应商的降价要求。"
+      },
+      "takeaway": "把握客户放量机会，同时预判价格谈判压力。",
       "edition": "2026-10-25",
       "factcheck": {
         "status": "已核实",
         "checked": "2026-10-25 21:55",
         "points": [
           {
-            "claim": "9 月营收 26.72 亿新台币，月减 1.75%、年增 0.54%",
+            "claim": "10/23 收 105.89 元（+8.85%），10/20 收 102.00 元（+8.97%）",
             "verdict": "一致",
-            "source": "玉晶光投资人关系",
-            "url": "https://www.gseo.com/tw/investor-relations"
+            "source": "Yahoo 日线",
+            "url": "https://query1.finance.yahoo.com/v8/finance/chart/688775.SS?period1=1791475200&period2=1792857600&interval=1d"
           },
           {
-            "claim": "前 9 月累计 196.36 亿，年增 10.12%",
+            "claim": "上半年营收 55.17 亿（+50.29%），归母净利 3040.73 万（-94.15%）",
             "verdict": "一致",
-            "source": "玉晶光投资人关系",
-            "url": "https://www.gseo.com/tw/investor-relations"
+            "source": "影石 2026 半年报",
+            "url": "https://wassets.insta360.com/common/fb81197aaf4c4e7089aef02c618cb3a2/2026%E5%B9%B4%E5%8D%8A%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A.pdf"
+          },
+          {
+            "claim": "市值 424.62 亿元",
+            "verdict": "一致",
+            "source": "准上市行情",
+            "url": "https://www.zhunshangshi.com/hq/detail.php?ts_code=688775.SH"
           }
         ],
-        "note": "仅公司官方一个来源（官方月报）。"
+        "note": "市值与半年报总股本（约 4.01 亿股）× 收盘价推算结果一致。"
       }
     },
     {
@@ -366,50 +208,6 @@
       }
     },
     {
-      "id": "2026-10-06-vivo-x500",
-      "date": "2026-10-06",
-      "cats": [
-        "增距镜",
-        "发布会与市场反响",
-        "手机镜头"
-      ],
-      "title": "增距镜成旗舰卖点：vivo X500 系列配等效 400mm 增距镜全球发布",
-      "summary": "X500 Pro Max 搭配 vivo 蔡司长焦增距镜 Gen 2 Ultra（等效 400mm），并配 2 亿像素蔡司长焦；系列共 X500 Pro Max、X500 Pro、X500 三款。",
-      "source": "vivo 官方新闻稿（PR Newswire）",
-      "url": "https://www.prnewswire.com/news-releases/vivo-x500-series-debuts-with-advanced-zeiss-telephoto-lens-system-and-cinematic-video-capabilities-302894897.html",
-      "official": true,
-      "tags": [
-        "vivo",
-        "蔡司",
-        "增距镜"
-      ],
-      "headline": 3,
-      "impact": {
-        "dir": "利好",
-        "text": "旗舰机把增距镜作为卖点，扩大了舜宇已量产的 400mm 拓展镜头的市场空间。"
-      },
-      "takeaway": "营销上主推「长焦 / 增距镜」方案能力，向更多品牌客户推介。",
-      "edition": "2026-10-25",
-      "factcheck": {
-        "status": "已核实",
-        "checked": "2026-10-25 21:55",
-        "points": [
-          {
-            "claim": "X500 系列三款机型，10 月 6 日发布",
-            "verdict": "一致",
-            "source": "vivo 官方新闻稿",
-            "url": "https://www.prnewswire.com/news-releases/vivo-x500-series-debuts-with-advanced-zeiss-telephoto-lens-system-and-cinematic-video-capabilities-302894897.html"
-          },
-          {
-            "claim": "Pro Max 搭载 2 亿像素蔡司 APO 长焦与 400mm 增距镜二代",
-            "verdict": "一致",
-            "source": "vivo 官方新闻稿",
-            "url": "https://www.prnewswire.com/news-releases/vivo-x500-series-debuts-with-advanced-zeiss-telephoto-lens-system-and-cinematic-video-capabilities-302894897.html"
-          }
-        ]
-      }
-    },
-    {
       "id": "2026-10-22-oppo-x10-extender",
       "date": "2026-10-22",
       "cats": [
@@ -456,298 +254,6 @@
           }
         ],
         "note": "230mm 由官方 70mm 等效焦距 × 3.28 推得；「不便」为评测观点。"
-      }
-    },
-    {
-      "id": "2026-09-21-sunny-extender",
-      "date": "2026-09-21",
-      "cats": [
-        "增距镜",
-        "舜宇及同行"
-      ],
-      "title": "舜宇已量产 200mm 与 400mm 手机拓展镜头，400mm 创行业纪录",
-      "summary": "中报披露：400mm 产品刷新行业焦段纪录；玻塑混合镜头成为高端主摄和长焦的关键方案，玻璃非球面镜片实际产能较常规方案提升三倍以上。",
-      "source": "舜宇 2026 中期报告（港交所）",
-      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0921/2026092100313.pdf",
-      "official": true,
-      "tags": [
-        "舜宇光学",
-        "增距镜",
-        "玻塑混合"
-      ],
-      "background": true,
-      "impact": {
-        "dir": "利好",
-        "text": "已有量产能力，可直接承接增距镜与高端镜头需求，巩固技术领先。"
-      },
-      "takeaway": "把量产能力与产能数据作为高端客户沟通的核心卖点。",
-      "edition": "2026-10-25",
-      "factcheck": {
-        "status": "已核实",
-        "checked": "2026-10-25 21:55",
-        "points": [
-          {
-            "claim": "200mm、400mm 增距镜组量产，400mm 为行业纪录",
-            "verdict": "一致",
-            "source": "舜宇 2026 中报（港交所）",
-            "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0921/2026092100313.pdf"
-          },
-          {
-            "claim": "玻塑混合镜头；玻璃非球面产能扩至 3 倍以上",
-            "verdict": "一致",
-            "source": "舜宇 2026 中报（港交所）",
-            "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0921/2026092100313.pdf"
-          }
-        ]
-      }
-    },
-    {
-      "id": "2026-09-21-sunny-interim",
-      "date": "2026-09-21",
-      "cats": [
-        "财报与股市",
-        "舜宇及同行",
-        "MR"
-      ],
-      "title": "舜宇上半年营收、利润双增：营收 219.06 亿元（+11.5%），归母净利 18.08 亿元（+9.9%）",
-      "summary": "手机业务 131.49 亿元，与上年同期 132.48 亿元基本持平；汽车 37.62 亿元（+10.6%）；XR 9.56 亿元（+11.0%，智能眼镜及 AR 眼镜带动）；其他 40.39 亿元（+88.5%）。已核对港交所中期报告。",
-      "source": "舜宇 2026 中期报告（港交所）",
-      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0921/2026092100313.pdf",
-      "official": true,
-      "tags": [
-        "舜宇光学"
-      ],
-      "background": true,
-      "impact": {
-        "dir": "利好",
-        "text": "增长来自汽车、XR 与其他业务，手机业务持平，业务多元化正在对冲手机下行。"
-      },
-      "takeaway": "继续加大汽车与智能眼镜业务投入，对外沟通突出多元增长。",
-      "edition": "2026-10-25",
-      "factcheck": {
-        "status": "已核实",
-        "checked": "2026-10-25 21:55",
-        "points": [
-          {
-            "claim": "上半年营收 219.06 亿元（+11.5%），股东应占利润 18.08 亿元（+9.9%）",
-            "verdict": "一致",
-            "source": "舜宇 2026 中报（港交所）",
-            "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0921/2026092100313.pdf"
-          },
-          {
-            "claim": "手机 131.49 亿（略降）、车载 37.62 亿（+10.6%）、XR 9.56 亿（+11.0%）",
-            "verdict": "一致",
-            "source": "舜宇 2026 中报（港交所）",
-            "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0921/2026092100313.pdf"
-          }
-        ],
-        "note": "公司官方披露，单一来源即为原始文件。"
-      }
-    },
-    {
-      "id": "2026-01-09-sunny-stop-monthly",
-      "date": "2026-01-09",
-      "cats": [
-        "舜宇及同行"
-      ],
-      "title": "提示：舜宇已停发月度出货公告，外部只能按季度跟踪",
-      "summary": "2026 年 1 月起停止发布；最后一期为 2025 年 12 月（手机镜头 9559.2 万件，同比 -8.9%），因此没有 9 月出货数据。",
-      "source": "舜宇自愿公告",
-      "url": "https://www.sunnyoptical.com/webfile/temps/202601091782135615.pdf",
-      "official": true,
-      "tags": [
-        "舜宇光学"
-      ],
-      "background": true,
-      "impact": {
-        "dir": "中性",
-        "text": "外部无法按月比较舜宇出货，市场更依赖季报与行业数据判断。"
-      },
-      "takeaway": "内部复盘与对外沟通改用季度数据及行业报告口径。",
-      "edition": "2026-10-25",
-      "factcheck": {
-        "status": "已核实",
-        "checked": "2026-10-25 21:55",
-        "points": [
-          {
-            "claim": "自 2026 年起不再发布月度出货量公告",
-            "verdict": "一致",
-            "source": "舜宇公告（港交所）",
-            "url": "https://www.sunnyoptical.com/webfile/temps/202601091782135615.pdf"
-          },
-          {
-            "claim": "2025 年 12 月手机镜头 9559.2 万件（同比 -8.9%）",
-            "verdict": "一致",
-            "source": "舜宇公告（港交所）",
-            "url": "https://www.sunnyoptical.com/webfile/temps/202601091782135615.pdf"
-          }
-        ]
-      }
-    },
-    {
-      "id": "2026-08-20-aac-optics",
-      "date": "2026-08-20",
-      "cats": [
-        "舜宇及同行",
-        "财报与股市"
-      ],
-      "title": "同行瑞声光学收入降 22.7%，但靠高端镜头提价",
-      "summary": "上半年收入 20.5 亿元，出货量下滑，但镜头与模组均价双位数增长，毛利率 10.2%；七片式镜头出货约 650 万颗。",
-      "source": "瑞声科技中期业绩（港交所）",
-      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000181.pdf",
-      "official": true,
-      "tags": [
-        "瑞声科技",
-        "玻塑混合"
-      ],
-      "background": true,
-      "impact": {
-        "dir": "中性",
-        "text": "同行转向高端、提价，高端镜头的竞争对手在增加。"
-      },
-      "takeaway": "高端产品既要守住技术差距，也要关注对手的报价与份额变化。",
-      "edition": "2026-10-25",
-      "factcheck": {
-        "status": "已核实",
-        "checked": "2026-10-25 21:55",
-        "points": [
-          {
-            "claim": "光学业务收入 20.5 亿元（-22.7%），毛利率 10.2%",
-            "verdict": "一致",
-            "source": "瑞声中报（港交所）",
-            "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000181.pdf"
-          },
-          {
-            "claim": "模组与镜头 ASP 双位数增长；7P / 1G6P 出货约 650 万",
-            "verdict": "一致",
-            "source": "瑞声中报（港交所）",
-            "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000181.pdf"
-          }
-        ]
-      }
-    },
-    {
-      "id": "2026-10-10-vivo-vision",
-      "date": "2026-10-10",
-      "cats": [
-        "MR",
-        "发布会与市场反响"
-      ],
-      "title": "vivo MR 头显在印度亮相：398g、双目 8K 显示",
-      "summary": "10 月 6 日在印度 vivo NEXT 活动上展示，支持眼动与手势交互，搭载骁龙 XR2+ Gen 2。",
-      "source": "VR陀螺（活动报道）",
-      "url": "https://www.tuoluo.cn/article/detail-10131394.html",
-      "official": false,
-      "tags": [
-        "vivo",
-        "Micro-OLED"
-      ],
-      "impact": {
-        "dir": "中性",
-        "text": "手机品牌入局 MR，长期利好 XR 光学需求，但目前仍是展示阶段，订单不确定。"
-      },
-      "takeaway": "跟踪 vivo 等手机品牌的 MR 项目进度，提早接触光学方案需求。",
-      "edition": "2026-10-25",
-      "factcheck": {
-        "status": "已核实",
-        "checked": "2026-10-25 21:55",
-        "points": [
-          {
-            "claim": "10 月 6 日在印度展示首款 MR 头显",
-            "verdict": "一致",
-            "source": "vivo 印度官方新闻室",
-            "url": "https://vivonewsroom.in/press-release/vivo-expands-its-technology-ecosystem-with-the-showcase-of-its-first-mr-headset1/"
-          },
-          {
-            "claim": "重 398 克，双 8K Micro-OLED，XR2+ Gen 2",
-            "verdict": "一致",
-            "source": "vivo 印度官方新闻室",
-            "url": "https://vivonewsroom.in/press-release/vivo-expands-its-technology-ecosystem-with-the-showcase-of-its-first-mr-headset1/"
-          }
-        ],
-        "note": "原报道（VR陀螺）与 vivo 官方新闻稿一致。"
-      }
-    },
-    {
-      "id": "2026-10-20-xr-trends",
-      "date": "2026-10-20",
-      "cats": [
-        "MR"
-      ],
-      "title": "Meta 新 VR 眼镜做到约 100g、1299.99 美元，2027 春季上市",
-      "summary": "采用超紧凑折叠光路（Pancake）方案，单眼 2412×2288 显示、视场角 70°×66°；XREAL Aura 已于 10 月 7 日公布定价。",
-      "source": "UBI Research",
-      "url": "https://en.ubiresearchnet.com/xr-device-development-trends-focus-pro-eng/",
-      "official": false,
-      "tags": [
-        "Meta",
-        "XREAL",
-        "Pancake"
-      ],
-      "impact": {
-        "dir": "利好",
-        "text": "轻量化 XR 设备需要更紧凑的光学方案，与舜宇 XR 业务方向一致。"
-      },
-      "takeaway": "把紧凑光学方案列为 XR 客户的重点推介，关注 2027 年上市节奏。",
-      "edition": "2026-10-25",
-      "factcheck": {
-        "status": "已核实",
-        "checked": "2026-10-25 21:55",
-        "points": [
-          {
-            "claim": "Meta 新头显约 100 克、1299.99 美元、2027 年春上市",
-            "verdict": "一致",
-            "source": "Meta 官方博客",
-            "url": "https://www.meta.com/blog/meta-connect-2026-everything-we-announced/"
-          },
-          {
-            "claim": "Pancake 光学，单眼 2412×2288，视场 70°×66°",
-            "verdict": "一致",
-            "source": "UBI 分析",
-            "url": "https://en.ubiresearchnet.com/xr-device-development-trends-focus-pro-eng/"
-          }
-        ],
-        "note": "Meta 页面对脚本访问返回 400，经浏览器方式打开核对。"
-      }
-    },
-    {
-      "id": "2026-10-14-dji-dock4",
-      "date": "2026-10-14",
-      "cats": [
-        "无人机",
-        "发布会与市场反响"
-      ],
-      "title": "大疆行业无人机升级：Matrice 5TD 配 11 倍长焦 + 红外，续航 59 分钟",
-      "summary": "与机场 4 一起发布；集成长焦（等效 252mm）、红外（最高 2560×2048）、全彩 4K 夜视与 3km 激光测距，25 秒自动换电。",
-      "source": "大疆官方新闻稿（PR Newswire）",
-      "url": "https://www.prnewswire.com/news-releases/dji-delivers-first-drone-dock-with-automated-25-second-battery-swaps-for-always-ready-aerial-support-302908510.html",
-      "official": true,
-      "tags": [
-        "大疆"
-      ],
-      "impact": {
-        "dir": "中性",
-        "text": "行业无人机集成更多镜头，多镜头光学需求上升，但订单分配未知。"
-      },
-      "takeaway": "关注行业无人机多镜头方案，作为手机以外的光学增量市场。",
-      "edition": "2026-10-25",
-      "factcheck": {
-        "status": "已核实",
-        "checked": "2026-10-25 21:55",
-        "points": [
-          {
-            "claim": "11 倍长焦（252mm），红外 2560×2048，3km 激光测距",
-            "verdict": "一致",
-            "source": "大疆官方新闻稿",
-            "url": "https://www.prnewswire.com/news-releases/dji-delivers-first-drone-dock-with-automated-25-second-battery-swaps-for-always-ready-aerial-support-302908510.html"
-          },
-          {
-            "claim": "续航 59 分钟，25 秒自动换电",
-            "verdict": "一致",
-            "source": "大疆官方新闻稿",
-            "url": "https://www.prnewswire.com/news-releases/dji-delivers-first-drone-dock-with-automated-25-second-battery-swaps-for-always-ready-aerial-support-302908510.html"
-          }
-        ]
       }
     },
     {
@@ -843,6 +349,520 @@
       }
     },
     {
+      "id": "2026-10-20-xr-trends",
+      "date": "2026-10-20",
+      "cats": [
+        "MR"
+      ],
+      "title": "Meta 新 VR 眼镜做到约 100g、1299.99 美元，2027 春季上市",
+      "summary": "采用超紧凑折叠光路（Pancake）方案，单眼 2412×2288 显示、视场角 70°×66°；XREAL Aura 已于 10 月 7 日公布定价。",
+      "source": "UBI Research",
+      "url": "https://en.ubiresearchnet.com/xr-device-development-trends-focus-pro-eng/",
+      "official": false,
+      "tags": [
+        "Meta",
+        "XREAL",
+        "Pancake"
+      ],
+      "impact": {
+        "dir": "利好",
+        "text": "轻量化 XR 设备需要更紧凑的光学方案，与舜宇 XR 业务方向一致。"
+      },
+      "takeaway": "把紧凑光学方案列为 XR 客户的重点推介，关注 2027 年上市节奏。",
+      "edition": "2026-10-25",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-10-25 21:55",
+        "points": [
+          {
+            "claim": "Meta 新头显约 100 克、1299.99 美元、2027 年春上市",
+            "verdict": "一致",
+            "source": "Meta 官方博客",
+            "url": "https://www.meta.com/blog/meta-connect-2026-everything-we-announced/"
+          },
+          {
+            "claim": "Pancake 光学，单眼 2412×2288，视场 70°×66°",
+            "verdict": "一致",
+            "source": "UBI 分析",
+            "url": "https://en.ubiresearchnet.com/xr-device-development-trends-focus-pro-eng/"
+          }
+        ],
+        "note": "Meta 页面对脚本访问返回 400，经浏览器方式打开核对。"
+      }
+    },
+    {
+      "id": "2026-10-16-iphone-duo",
+      "date": "2026-10-16",
+      "cats": [
+        "发布会与市场反响",
+        "手机镜头"
+      ],
+      "title": "苹果折叠屏 iPhone Duo 10 月 16 日开启预购，配 4800 万像素主摄与超广角",
+      "summary": "主摄为 4800 万像素融合式摄像头（光学品质 2 倍变焦），另有 4800 万像素超广角及内屏屏下 FaceTime 摄像头；折抵换购可享 RMB 900 至 8300 优惠。",
+      "source": "Apple 新闻编辑室",
+      "url": "https://www.apple.com.cn/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/",
+      "official": true,
+      "tags": [
+        "苹果",
+        "折叠屏"
+      ],
+      "impact": {
+        "dir": "中性",
+        "text": "苹果折叠屏带动高像素镜头需求，但对舜宇的订单分配未披露。"
+      },
+      "takeaway": "跟踪折叠屏机型的销量与镜头规格，判断高端镜头需求走向。",
+      "edition": "2026-10-25",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-10-25 21:55",
+        "points": [
+          {
+            "claim": "10 月 16 日晚 8 点起预购",
+            "verdict": "一致",
+            "source": "Apple 中国新闻稿",
+            "url": "https://www.apple.com.cn/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/"
+          },
+          {
+            "claim": "4800 万融合主摄（光学级 2 倍）+ 4800 万超广角，屏下前置",
+            "verdict": "一致",
+            "source": "Apple 中国新闻稿",
+            "url": "https://www.apple.com.cn/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-10-14-dji-dock4",
+      "date": "2026-10-14",
+      "cats": [
+        "无人机",
+        "发布会与市场反响"
+      ],
+      "title": "大疆行业无人机升级：Matrice 5TD 配 11 倍长焦 + 红外，续航 59 分钟",
+      "summary": "与机场 4 一起发布；集成长焦（等效 252mm）、红外（最高 2560×2048）、全彩 4K 夜视与 3km 激光测距，25 秒自动换电。",
+      "source": "大疆官方新闻稿（PR Newswire）",
+      "url": "https://www.prnewswire.com/news-releases/dji-delivers-first-drone-dock-with-automated-25-second-battery-swaps-for-always-ready-aerial-support-302908510.html",
+      "official": true,
+      "tags": [
+        "大疆"
+      ],
+      "impact": {
+        "dir": "中性",
+        "text": "行业无人机集成更多镜头，多镜头光学需求上升，但订单分配未知。"
+      },
+      "takeaway": "关注行业无人机多镜头方案，作为手机以外的光学增量市场。",
+      "edition": "2026-10-25",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-10-25 21:55",
+        "points": [
+          {
+            "claim": "11 倍长焦（252mm），红外 2560×2048，3km 激光测距",
+            "verdict": "一致",
+            "source": "大疆官方新闻稿",
+            "url": "https://www.prnewswire.com/news-releases/dji-delivers-first-drone-dock-with-automated-25-second-battery-swaps-for-always-ready-aerial-support-302908510.html"
+          },
+          {
+            "claim": "续航 59 分钟，25 秒自动换电",
+            "verdict": "一致",
+            "source": "大疆官方新闻稿",
+            "url": "https://www.prnewswire.com/news-releases/dji-delivers-first-drone-dock-with-automated-25-second-battery-swaps-for-always-ready-aerial-support-302908510.html"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-10-14-idc-global-q3",
+      "date": "2026-10-14",
+      "cats": [
+        "手机镜头"
+      ],
+      "title": "全球手机需求创最大单季降幅：Q3 出货 2.553 亿部，同比 -22%",
+      "summary": "IDC 称存储成本较去年涨约 350%，推高手机售价、压制需求，市场尚未见底，复苏最早要到 2028 年。安卓三家降幅约三成（小米 -29.2%、OPPO -34.5%、vivo -31.5%），三星、苹果份额升至 22.6% 与 22.4%。",
+      "source": "IDC 官方新闻稿",
+      "url": "https://www.idc.com/resource-center/press-releases/smartphone-shipments-decline-3q26/",
+      "official": true,
+      "tags": [
+        "IDC",
+        "小米",
+        "OPPO",
+        "vivo",
+        "苹果"
+      ],
+      "impact": {
+        "dir": "利空",
+        "text": "安卓客户集体减量，手机镜头与模组订单量和价格同时承压。"
+      },
+      "takeaway": "把四季度与明年手机业务预算按需求下行情景编制，销售资源向份额上升的客户倾斜。",
+      "edition": "2026-10-25",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-10-25 21:55",
+        "points": [
+          {
+            "claim": "Q3 全球出货 2.553 亿部，同比 -22.0%",
+            "verdict": "一致",
+            "source": "IDC 新闻稿",
+            "url": "https://www.idc.com/resource-center/press-releases/smartphone-shipments-decline-3q26/"
+          },
+          {
+            "claim": "小米 -29.2%、OPPO -34.5%、vivo -31.5%；存储成本涨约 350%",
+            "verdict": "一致",
+            "source": "IDC 新闻稿",
+            "url": "https://www.idc.com/resource-center/press-releases/smartphone-shipments-decline-3q26/"
+          }
+        ],
+        "note": "原链接为 IDC 新闻稿列表页，已改为该条新闻稿原文。",
+        "corrected": true
+      }
+    },
+    {
+      "id": "2026-10-13-idc-china-q3",
+      "date": "2026-10-13",
+      "cats": [
+        "手机镜头"
+      ],
+      "title": "中国手机市场同样下滑：Q3 出货约 5790 万台，同比 -15.4%，仅华为逆势 +17.3%",
+      "summary": "存储涨价推高售价、压制需求；华为是头部厂商中唯一实现双位数增长的品牌。",
+      "source": "IDC 官方新闻稿",
+      "url": "https://www.idc.com/resource-center/press-releases/%e6%88%90%e6%9c%ac%e6%8e%a8%e9%ab%98%e5%94%ae%e4%bb%b7%ef%bc%8cq3%e4%b8%ad%e5%9b%bd%e6%89%8b%e6%9c%ba%e5%87%ba%e8%b4%a7%e8%b7%8c15-4%ef%bc%8c%e5%8d%8e%e4%b8%ba%e9%80%86%e5%8a%bf%e5%a2%9e%e9%95%bf/",
+      "official": true,
+      "tags": [
+        "IDC",
+        "华为"
+      ],
+      "impact": {
+        "dir": "利空",
+        "text": "国内整体需求下滑，订单向少数增长品牌集中，客户结构决定出货表现。"
+      },
+      "takeaway": "重点跟踪增长品牌的新机项目，评估国内客户组合的集中度风险。",
+      "edition": "2026-10-25",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-10-25 21:55",
+        "points": [
+          {
+            "claim": "Q3 中国出货 5790 万部，同比 -15.4%",
+            "verdict": "一致",
+            "source": "IDC 中文新闻稿",
+            "url": "https://www.idc.com/resource-center/press-releases/%e6%88%90%e6%9c%ac%e6%8e%a8%e9%ab%98%e5%94%ae%e4%bb%b7%ef%bc%8cq3%e4%b8%ad%e5%9b%bd%e6%89%8b%e6%9c%ba%e5%87%ba%e8%b4%a7%e8%b7%8c15-4%ef%bc%8c%e5%8d%8e%e4%b8%ba%e9%80%86%e5%8a%bf%e5%a2%9e%e9%95%bf/"
+          },
+          {
+            "claim": "华为逆势增长 17.3%",
+            "verdict": "一致",
+            "source": "IDC 英文新闻稿",
+            "url": "https://www.idc.com/resource-center/press-releases/china-smartphone-shipments-q3-2026/"
+          }
+        ],
+        "note": "中英文两版新闻稿数字一致；链接已改为原文。",
+        "corrected": true
+      }
+    },
+    {
+      "id": "2026-10-12-qtech-sep",
+      "date": "2026-10-12",
+      "cats": [
+        "舜宇及同行",
+        "手机镜头"
+      ],
+      "headline": 1,
+      "title": "模组同行丘钛 9 月手机摄像头模组出货同比 -16.7%，公司称存储涨价压需求",
+      "summary": "9 月摄像头模组 3633.8 万件，环比 -4.0%；手机产品合计 5017.6 万件，同比 -19.7%。汽车产品 118.2 万件（同比 +29.2%）；XR 与手持影像带动 IoT 产品 +4.1%。舜宇已停发月度数据，丘钛月报是观察模组需求最近的窗口。",
+      "source": "丘钛科技自愿公告（港交所）",
+      "url": "https://www.qtechsmartvision.com/ueditor/php/upload/file/20261012/1791799222776667.pdf",
+      "official": true,
+      "tags": [
+        "丘钛科技",
+        "摄像头模组"
+      ],
+      "impact": {
+        "dir": "利空",
+        "text": "主要模组同行量降近两成，说明安卓客户 9 月仍在减量，舜宇手机模组订单与价格同样承压。"
+      },
+      "takeaway": "手机模组以保利润为先，资源向汽车、XR 等仍在增长的业务倾斜；按月跟踪丘钛出货作为需求信号。",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-10-26 08:05",
+        "points": [
+          {
+            "claim": "9 月摄像头模组 3633.8 万件，环比 -4.0%、同比 -16.7%",
+            "verdict": "一致",
+            "source": "丘钛公告原文",
+            "url": "https://www.qtechsmartvision.com/ueditor/php/upload/file/20261012/1791799222776667.pdf"
+          },
+          {
+            "claim": "手机产品 5017.6 万件同比 -19.7%，主因存储涨价致需求不佳",
+            "verdict": "一致",
+            "source": "爱集微（引公告）",
+            "url": "https://www.ijiwei.com/n/1117973"
+          },
+          {
+            "claim": "汽车产品 118.2 万件同比 +29.2%，IoT 产品 +4.1%",
+            "verdict": "一致",
+            "source": "丘钛公告原文",
+            "url": "https://www.qtechsmartvision.com/ueditor/php/upload/file/20261012/1791799222776667.pdf"
+          }
+        ],
+        "note": "10/12 公告，此前未收录，10/26 补录；数字与爱集微报道一致。"
+      },
+      "edition": "2026-10-26"
+    },
+    {
+      "id": "2026-10-10-vivo-vision",
+      "date": "2026-10-10",
+      "cats": [
+        "MR",
+        "发布会与市场反响"
+      ],
+      "title": "vivo MR 头显在印度亮相：398g、双目 8K 显示",
+      "summary": "10 月 6 日在印度 vivo NEXT 活动上展示，支持眼动与手势交互，搭载骁龙 XR2+ Gen 2。",
+      "source": "VR陀螺（活动报道）",
+      "url": "https://www.tuoluo.cn/article/detail-10131394.html",
+      "official": false,
+      "tags": [
+        "vivo",
+        "Micro-OLED"
+      ],
+      "impact": {
+        "dir": "中性",
+        "text": "手机品牌入局 MR，长期利好 XR 光学需求，但目前仍是展示阶段，订单不确定。"
+      },
+      "takeaway": "跟踪 vivo 等手机品牌的 MR 项目进度，提早接触光学方案需求。",
+      "edition": "2026-10-25",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-10-25 21:55",
+        "points": [
+          {
+            "claim": "10 月 6 日在印度展示首款 MR 头显",
+            "verdict": "一致",
+            "source": "vivo 印度官方新闻室",
+            "url": "https://vivonewsroom.in/press-release/vivo-expands-its-technology-ecosystem-with-the-showcase-of-its-first-mr-headset1/"
+          },
+          {
+            "claim": "重 398 克，双 8K Micro-OLED，XR2+ Gen 2",
+            "verdict": "一致",
+            "source": "vivo 印度官方新闻室",
+            "url": "https://vivonewsroom.in/press-release/vivo-expands-its-technology-ecosystem-with-the-showcase-of-its-first-mr-headset1/"
+          }
+        ],
+        "note": "原报道（VR陀螺）与 vivo 官方新闻稿一致。"
+      }
+    },
+    {
+      "id": "2026-10-09-gseo-sep",
+      "date": "2026-10-09",
+      "cats": [
+        "舜宇及同行",
+        "财报与股市"
+      ],
+      "title": "玉晶光 9 月营收持平：26.72 亿新台币，同比 +0.54%",
+      "summary": "月减 1.75%；前 9 月累计 196.36 亿新台币，同比 +10.12%。",
+      "source": "玉晶光投资人专区",
+      "url": "https://www.gseo.com/tw/investor-relations",
+      "official": true,
+      "tags": [
+        "玉晶光"
+      ],
+      "impact": {
+        "dir": "中性",
+        "text": "同行营收持平，竞争格局暂无明显变化。"
+      },
+      "takeaway": "持续按月跟踪台系同行营收，作为行业需求的先行信号。",
+      "edition": "2026-10-25",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-10-25 21:55",
+        "points": [
+          {
+            "claim": "9 月营收 26.72 亿新台币，月减 1.75%、年增 0.54%",
+            "verdict": "一致",
+            "source": "玉晶光投资人关系",
+            "url": "https://www.gseo.com/tw/investor-relations"
+          },
+          {
+            "claim": "前 9 月累计 196.36 亿，年增 10.12%",
+            "verdict": "一致",
+            "source": "玉晶光投资人关系",
+            "url": "https://www.gseo.com/tw/investor-relations"
+          }
+        ],
+        "note": "仅公司官方一个来源（官方月报）。"
+      }
+    },
+    {
+      "id": "2026-10-09-largan-cpo",
+      "date": "2026-10-09",
+      "cats": [
+        "舜宇及同行"
+      ],
+      "title": "大立光加速转向光通讯：光纤阵列通过客户认证，规划 2027 年量产",
+      "summary": "董事长林恩平称客户 9 月下修手机需求，公司加速布局 CPO 光通讯业务；Q3 资本支出 81.8 亿新台币（含购地款）。",
+      "source": "自由财经（法说会报道）",
+      "url": "https://ec.ltn.com.tw/article/paper/1773790",
+      "official": false,
+      "tags": [
+        "大立光",
+        "CPO"
+      ],
+      "impact": {
+        "dir": "中性",
+        "text": "同行把资源移向光通讯，手机镜头竞争压力或略减，同时在新赛道多了一个对手。"
+      },
+      "takeaway": "评估光通讯等非手机业务的布局节奏，作为对冲手机下行的第二增长点。",
+      "edition": "2026-10-25",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-10-25 21:55",
+        "points": [
+          {
+            "claim": "光纤阵列（FA）通过客户认证，FA / FAU 规划 2027 年量产",
+            "verdict": "一致",
+            "source": "自由时报",
+            "url": "https://ec.ltn.com.tw/article/paper/1773790"
+          },
+          {
+            "claim": "FA 产能 2027 年 Q2 底到位，FAU 2027 下半年",
+            "verdict": "一致",
+            "source": "中央社",
+            "url": "https://www.cna.com.tw/news/afe/202610080326.aspx"
+          },
+          {
+            "claim": "客户 9 月下修需求；Q3 资本支出 81.8 亿（含土地）",
+            "verdict": "一致",
+            "source": "自由时报",
+            "url": "https://ec.ltn.com.tw/article/paper/1773790"
+          }
+        ],
+        "note": "自由时报原文对脚本访问返回 403，经浏览器方式打开核对。"
+      }
+    },
+    {
+      "id": "2026-10-08-largan-q3",
+      "date": "2026-10-08",
+      "cats": [
+        "舜宇及同行",
+        "财报与股市",
+        "手机镜头"
+      ],
+      "title": "头号同行大立光 Q3 营收年减 11%，并预告 11 月拉货下滑",
+      "summary": "Q3 营收 156.51 亿新台币，毛利率 42.2%，净利 51.82 亿新台币；前三季营收仍年增 2%。管理层在法说会上表示 11 月拉货将下滑。",
+      "source": "大立光法说会简报",
+      "url": "https://www.largan.com.tw/tw/tool-download/investor_shareholder_1/file/18/%E6%9C%AC%E5%85%AC%E5%8F%B82026%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E4%B8%AD%E6%96%87%E7%B7%9A%E4%B8%8A%E6%B3%95%E8%AA%AA%E6%9C%83%E5%B7%B2%E8%A8%82%E6%96%BC%E5%8D%81%E6%9C%88%E5%85%AB%E6%97%A5%EF%BC%88%E6%98%9F%E6%9C%9F%E5%9B%9B%EF%BC%89%E4%B8%8B%E5%8D%88%E5%85%A9%E9%BB%9E%E4%B8%89%E5%8D%81%E5%88%86%E8%88%89%E8%A1%8C%E7%B0%A1%E5%A0%B1%E8%B3%87%E6%96%99?note=%E7%B0%A1%E5%A0%B1%E8%B3%87%E6%96%99",
+      "official": true,
+      "tags": [
+        "大立光"
+      ],
+      "impact": {
+        "dir": "中性",
+        "text": "同行降温印证行业需求转弱；对手若为保量降价，镜头价格竞争可能加剧。"
+      },
+      "takeaway": "关注大立光报价动作，提前准备价格应对与差异化卖点。",
+      "edition": "2026-10-25",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-10-25 21:55",
+        "points": [
+          {
+            "claim": "Q3 营收 156.51 亿新台币（-11%），毛利率 42.2%，净利 51.82 亿",
+            "verdict": "一致",
+            "source": "大立光法说会简报",
+            "url": "https://www.largan.com.tw/tw/tool-download/investor_shareholder_1/file/18/%E6%9C%AC%E5%85%AC%E5%8F%B82026%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E4%B8%AD%E6%96%87%E7%B7%9A%E4%B8%8A%E6%B3%95%E8%AA%AA%E6%9C%83%E5%B7%B2%E8%A8%82%E6%96%BC%E5%8D%81%E6%9C%88%E5%85%AB%E6%97%A5%EF%BC%88%E6%98%9F%E6%9C%9F%E5%9B%9B%EF%BC%89%E4%B8%8B%E5%8D%88%E5%85%A9%E9%BB%9E%E4%B8%89%E5%8D%81%E5%88%86%E8%88%89%E8%A1%8C%E7%B0%A1%E5%A0%B1%E8%B3%87%E6%96%99?note=%E7%B0%A1%E5%A0%B1%E8%B3%87%E6%96%99"
+          },
+          {
+            "claim": "前三季营收 +2%；11 月拉货下滑",
+            "verdict": "一致",
+            "source": "中央社",
+            "url": "https://www.cna.com.tw/news/afe/202610080326.aspx"
+          }
+        ],
+        "note": "简报未提 11 月展望，该点以中央社法说会报道为据。"
+      }
+    },
+    {
+      "id": "2026-10-06-vivo-x500",
+      "date": "2026-10-06",
+      "cats": [
+        "增距镜",
+        "发布会与市场反响",
+        "手机镜头"
+      ],
+      "title": "增距镜成旗舰卖点：vivo X500 系列配等效 400mm 增距镜全球发布",
+      "summary": "X500 Pro Max 搭配 vivo 蔡司长焦增距镜 Gen 2 Ultra（等效 400mm），并配 2 亿像素蔡司长焦；系列共 X500 Pro Max、X500 Pro、X500 三款。",
+      "source": "vivo 官方新闻稿（PR Newswire）",
+      "url": "https://www.prnewswire.com/news-releases/vivo-x500-series-debuts-with-advanced-zeiss-telephoto-lens-system-and-cinematic-video-capabilities-302894897.html",
+      "official": true,
+      "tags": [
+        "vivo",
+        "蔡司",
+        "增距镜"
+      ],
+      "impact": {
+        "dir": "利好",
+        "text": "旗舰机把增距镜作为卖点，扩大了舜宇已量产的 400mm 拓展镜头的市场空间。"
+      },
+      "takeaway": "营销上主推「长焦 / 增距镜」方案能力，向更多品牌客户推介。",
+      "edition": "2026-10-25",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-10-25 21:55",
+        "points": [
+          {
+            "claim": "X500 系列三款机型，10 月 6 日发布",
+            "verdict": "一致",
+            "source": "vivo 官方新闻稿",
+            "url": "https://www.prnewswire.com/news-releases/vivo-x500-series-debuts-with-advanced-zeiss-telephoto-lens-system-and-cinematic-video-capabilities-302894897.html"
+          },
+          {
+            "claim": "Pro Max 搭载 2 亿像素蔡司 APO 长焦与 400mm 增距镜二代",
+            "verdict": "一致",
+            "source": "vivo 官方新闻稿",
+            "url": "https://www.prnewswire.com/news-releases/vivo-x500-series-debuts-with-advanced-zeiss-telephoto-lens-system-and-cinematic-video-capabilities-302894897.html"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-10-05-largan-sep",
+      "date": "2026-10-05",
+      "cats": [
+        "舜宇及同行",
+        "财报与股市"
+      ],
+      "title": "大立光 9 月营收回升至 11 个月高点，但同比仍降 7%",
+      "summary": "9 月营收 57.79 亿新台币，月增 15%；公司预估 10 月动能与 9 月相当。",
+      "source": "中央社",
+      "url": "https://www.cna.com.tw/news/afe/202610050217.aspx",
+      "official": false,
+      "tags": [
+        "大立光"
+      ],
+      "impact": {
+        "dir": "中性",
+        "text": "短期旺季拉货仍在，但同比走弱，说明需求回升有限。"
+      },
+      "takeaway": "四季度排产以稳为主，避免按旺季峰值备料。",
+      "edition": "2026-10-25",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-10-25 21:55",
+        "points": [
+          {
+            "claim": "9 月营收 57.79 亿新台币，11 个月新高，月增 15%、年减 7%",
+            "verdict": "一致",
+            "source": "中央社",
+            "url": "https://www.cna.com.tw/news/afe/202610050217.aspx"
+          },
+          {
+            "claim": "Q3 营收 156.51 亿，前 9 月 448.60 亿",
+            "verdict": "一致",
+            "source": "大立光法说会简报",
+            "url": "https://www.largan.com.tw/tw/tool-download/investor_shareholder_1/file/18/%E6%9C%AC%E5%85%AC%E5%8F%B82026%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E4%B8%AD%E6%96%87%E7%B7%9A%E4%B8%8A%E6%B3%95%E8%AA%AA%E6%9C%83%E5%B7%B2%E8%A8%82%E6%96%BC%E5%8D%81%E6%9C%88%E5%85%AB%E6%97%A5%EF%BC%88%E6%98%9F%E6%9C%9F%E5%9B%9B%EF%BC%89%E4%B8%8B%E5%8D%88%E5%85%A9%E9%BB%9E%E4%B8%89%E5%8D%81%E5%88%86%E8%88%89%E8%A1%8C%E7%B0%A1%E5%A0%B1%E8%B3%87%E6%96%99?note=%E7%B0%A1%E5%A0%B1%E8%B3%87%E6%96%99"
+          }
+        ]
+      }
+    },
+    {
       "id": "2026-09-29-ace-pro-3-fcc",
       "date": "2026-09-29",
       "cats": [
@@ -928,89 +948,169 @@
       }
     },
     {
-      "id": "2026-10-23-insta360-stock",
-      "date": "2026-10-23",
+      "id": "2026-09-21-sunny-extender",
+      "date": "2026-09-21",
       "cats": [
-        "运动相机",
-        "财报与股市"
+        "增距镜",
+        "舜宇及同行"
       ],
-      "title": "影石创新一周两次大涨，10/23 +8.85% 收 105.89 元，市值 424.62 亿元",
-      "summary": "10/20 +8.97%。半年报：上半年营收 55.17 亿元（+50.29%），归母净利 3040.73 万元（-94.15%）。行情数据。",
-      "source": "准上市行情",
-      "url": "https://www.zhunshangshi.com/hq/detail.php?ts_code=688775.SH",
-      "official": false,
+      "title": "舜宇已量产 200mm 与 400mm 手机拓展镜头，400mm 创行业纪录",
+      "summary": "中报披露：400mm 产品刷新行业焦段纪录；玻塑混合镜头成为高端主摄和长焦的关键方案，玻璃非球面镜片实际产能较常规方案提升三倍以上。",
+      "source": "舜宇 2026 中期报告（港交所）",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0921/2026092100313.pdf",
+      "official": true,
       "tags": [
-        "影石创新"
+        "舜宇光学",
+        "增距镜",
+        "玻塑混合"
       ],
+      "background": true,
       "impact": {
-        "dir": "中性",
-        "text": "资本市场看好全景相机赛道，但客户利润承压，可能传导为对供应商的降价要求。"
+        "dir": "利好",
+        "text": "已有量产能力，可直接承接增距镜与高端镜头需求，巩固技术领先。"
       },
-      "takeaway": "把握客户放量机会，同时预判价格谈判压力。",
+      "takeaway": "把量产能力与产能数据作为高端客户沟通的核心卖点。",
       "edition": "2026-10-25",
       "factcheck": {
         "status": "已核实",
         "checked": "2026-10-25 21:55",
         "points": [
           {
-            "claim": "10/23 收 105.89 元（+8.85%），10/20 收 102.00 元（+8.97%）",
+            "claim": "200mm、400mm 增距镜组量产，400mm 为行业纪录",
             "verdict": "一致",
-            "source": "Yahoo 日线",
-            "url": "https://query1.finance.yahoo.com/v8/finance/chart/688775.SS?period1=1791475200&period2=1792857600&interval=1d"
+            "source": "舜宇 2026 中报（港交所）",
+            "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0921/2026092100313.pdf"
           },
           {
-            "claim": "上半年营收 55.17 亿（+50.29%），归母净利 3040.73 万（-94.15%）",
+            "claim": "玻塑混合镜头；玻璃非球面产能扩至 3 倍以上",
             "verdict": "一致",
-            "source": "影石 2026 半年报",
-            "url": "https://wassets.insta360.com/common/fb81197aaf4c4e7089aef02c618cb3a2/2026%E5%B9%B4%E5%8D%8A%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A.pdf"
-          },
-          {
-            "claim": "市值 424.62 亿元",
-            "verdict": "一致",
-            "source": "准上市行情",
-            "url": "https://www.zhunshangshi.com/hq/detail.php?ts_code=688775.SH"
+            "source": "舜宇 2026 中报（港交所）",
+            "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0921/2026092100313.pdf"
           }
-        ],
-        "note": "市值与半年报总股本（约 4.01 亿股）× 收盘价推算结果一致。"
+        ]
       }
     },
     {
-      "id": "2026-10-16-iphone-duo",
-      "date": "2026-10-16",
+      "id": "2026-09-21-sunny-interim",
+      "date": "2026-09-21",
       "cats": [
-        "发布会与市场反响",
-        "手机镜头"
+        "财报与股市",
+        "舜宇及同行",
+        "MR"
       ],
-      "title": "苹果折叠屏 iPhone Duo 10 月 16 日开启预购，配 4800 万像素主摄与超广角",
-      "summary": "主摄为 4800 万像素融合式摄像头（光学品质 2 倍变焦），另有 4800 万像素超广角及内屏屏下 FaceTime 摄像头；折抵换购可享 RMB 900 至 8300 优惠。",
-      "source": "Apple 新闻编辑室",
-      "url": "https://www.apple.com.cn/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/",
+      "title": "舜宇上半年营收、利润双增：营收 219.06 亿元（+11.5%），归母净利 18.08 亿元（+9.9%）",
+      "summary": "手机业务 131.49 亿元，与上年同期 132.48 亿元基本持平；汽车 37.62 亿元（+10.6%）；XR 9.56 亿元（+11.0%，智能眼镜及 AR 眼镜带动）；其他 40.39 亿元（+88.5%）。已核对港交所中期报告。",
+      "source": "舜宇 2026 中期报告（港交所）",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0921/2026092100313.pdf",
       "official": true,
       "tags": [
-        "苹果",
-        "折叠屏"
+        "舜宇光学"
       ],
+      "background": true,
       "impact": {
-        "dir": "中性",
-        "text": "苹果折叠屏带动高像素镜头需求，但对舜宇的订单分配未披露。"
+        "dir": "利好",
+        "text": "增长来自汽车、XR 与其他业务，手机业务持平，业务多元化正在对冲手机下行。"
       },
-      "takeaway": "跟踪折叠屏机型的销量与镜头规格，判断高端镜头需求走向。",
+      "takeaway": "继续加大汽车与智能眼镜业务投入，对外沟通突出多元增长。",
       "edition": "2026-10-25",
       "factcheck": {
         "status": "已核实",
         "checked": "2026-10-25 21:55",
         "points": [
           {
-            "claim": "10 月 16 日晚 8 点起预购",
+            "claim": "上半年营收 219.06 亿元（+11.5%），股东应占利润 18.08 亿元（+9.9%）",
             "verdict": "一致",
-            "source": "Apple 中国新闻稿",
-            "url": "https://www.apple.com.cn/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/"
+            "source": "舜宇 2026 中报（港交所）",
+            "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0921/2026092100313.pdf"
           },
           {
-            "claim": "4800 万融合主摄（光学级 2 倍）+ 4800 万超广角，屏下前置",
+            "claim": "手机 131.49 亿（略降）、车载 37.62 亿（+10.6%）、XR 9.56 亿（+11.0%）",
             "verdict": "一致",
-            "source": "Apple 中国新闻稿",
-            "url": "https://www.apple.com.cn/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/"
+            "source": "舜宇 2026 中报（港交所）",
+            "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0921/2026092100313.pdf"
+          }
+        ],
+        "note": "公司官方披露，单一来源即为原始文件。"
+      }
+    },
+    {
+      "id": "2026-08-20-aac-optics",
+      "date": "2026-08-20",
+      "cats": [
+        "舜宇及同行",
+        "财报与股市"
+      ],
+      "title": "同行瑞声光学收入降 22.7%，但靠高端镜头提价",
+      "summary": "上半年收入 20.5 亿元，出货量下滑，但镜头与模组均价双位数增长，毛利率 10.2%；七片式镜头出货约 650 万颗。",
+      "source": "瑞声科技中期业绩（港交所）",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000181.pdf",
+      "official": true,
+      "tags": [
+        "瑞声科技",
+        "玻塑混合"
+      ],
+      "background": true,
+      "impact": {
+        "dir": "中性",
+        "text": "同行转向高端、提价，高端镜头的竞争对手在增加。"
+      },
+      "takeaway": "高端产品既要守住技术差距，也要关注对手的报价与份额变化。",
+      "edition": "2026-10-25",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-10-25 21:55",
+        "points": [
+          {
+            "claim": "光学业务收入 20.5 亿元（-22.7%），毛利率 10.2%",
+            "verdict": "一致",
+            "source": "瑞声中报（港交所）",
+            "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000181.pdf"
+          },
+          {
+            "claim": "模组与镜头 ASP 双位数增长；7P / 1G6P 出货约 650 万",
+            "verdict": "一致",
+            "source": "瑞声中报（港交所）",
+            "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000181.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-01-09-sunny-stop-monthly",
+      "date": "2026-01-09",
+      "cats": [
+        "舜宇及同行"
+      ],
+      "title": "提示：舜宇已停发月度出货公告，外部只能按季度跟踪",
+      "summary": "2026 年 1 月起停止发布；最后一期为 2025 年 12 月（手机镜头 9559.2 万件，同比 -8.9%），因此没有 9 月出货数据。",
+      "source": "舜宇自愿公告",
+      "url": "https://www.sunnyoptical.com/webfile/temps/202601091782135615.pdf",
+      "official": true,
+      "tags": [
+        "舜宇光学"
+      ],
+      "background": true,
+      "impact": {
+        "dir": "中性",
+        "text": "外部无法按月比较舜宇出货，市场更依赖季报与行业数据判断。"
+      },
+      "takeaway": "内部复盘与对外沟通改用季度数据及行业报告口径。",
+      "edition": "2026-10-25",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-10-25 21:55",
+        "points": [
+          {
+            "claim": "自 2026 年起不再发布月度出货量公告",
+            "verdict": "一致",
+            "source": "舜宇公告（港交所）",
+            "url": "https://www.sunnyoptical.com/webfile/temps/202601091782135615.pdf"
+          },
+          {
+            "claim": "2025 年 12 月手机镜头 9559.2 万件（同比 -8.9%）",
+            "verdict": "一致",
+            "source": "舜宇公告（港交所）",
+            "url": "https://www.sunnyoptical.com/webfile/temps/202601091782135615.pdf"
           }
         ]
       }
