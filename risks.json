@@ -35,7 +35,10 @@
           }
         ],
         "note": "链接已改为该条新闻稿原文。",
-        "corrected": true
+        "corrected": true,
+        "sources": [
+          "IDC 新闻稿"
+        ]
       }
     },
     {
@@ -66,7 +69,10 @@
           }
         ],
         "note": "链接已改为该条新闻稿原文。",
-        "corrected": true
+        "corrected": true,
+        "sources": [
+          "IDC 新闻稿"
+        ]
       }
     },
     {
@@ -95,6 +101,9 @@
             "source": "舜宇 2026 中报（港交所）",
             "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0921/2026092100313.pdf"
           }
+        ],
+        "sources": [
+          "舜宇中报"
         ]
       }
     },
@@ -124,6 +133,9 @@
             "source": "商务部公告",
             "url": "https://www.mofcom.gov.cn/zcfb/blgg/gg/2026/art/2026/art_7f1108392a314a2586e106b81b68f54f.html"
           }
+        ],
+        "sources": [
+          "商务部公告"
         ]
       }
     },
@@ -153,6 +165,9 @@
             "source": "商务部公告",
             "url": "https://www.mofcom.gov.cn/zcfb/blgg/gg/2026/art/2026/art_92d6cb97a5de472d8ffeaf93be12a30f.html"
           }
+        ],
+        "sources": [
+          "商务部公告"
         ]
       }
     },
@@ -182,6 +197,9 @@
             "source": "美国联邦公报",
             "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20510/continuation-of-actions-chinas-acts-policies-and-practices-related-to-technology-transfer"
           }
+        ],
+        "sources": [
+          "美国联邦公报"
         ]
       }
     },
@@ -217,6 +235,9 @@
             "source": "国家统计局",
             "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965614.html"
           }
+        ],
+        "sources": [
+          "国家统计局"
         ]
       }
     },
@@ -246,6 +267,10 @@
             "source": "经济参考报（新华社）",
             "url": "http://jjckb.xinhuanet.com/20261020/a30bd84bac73453db40ccbb59b6f4fb9/c.html"
           }
+        ],
+        "sources": [
+          "中国人民银行",
+          "经济参考报"
         ]
       }
     },
@@ -275,6 +300,10 @@
             "source": "中央社",
             "url": "https://www.cna.com.tw/news/afe/202610080326.aspx"
           }
+        ],
+        "sources": [
+          "大立光法说会简报",
+          "中央社"
         ]
       }
     },
@@ -304,6 +333,9 @@
             "source": "瑞声中报（港交所）",
             "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000181.pdf"
           }
+        ],
+        "sources": [
+          "瑞声中报"
         ]
       }
     }

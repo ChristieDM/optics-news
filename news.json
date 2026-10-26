@@ -63,17 +63,17 @@
       "运动相机": "高景气：手持智能相机 Q2 出货 +57%，Insta360 新品临近",
       "舜宇及同行": "舜宇逆势增长：H1 营收 +11.5%，大立光 Q3 营收年减 11%",
       "财报与股市": "股价回暖：舜宇 10/23 涨 4.99% 收 63.15 港元，同行营收走弱",
-      "发布会与市场反响": "长焦成卖点：vivo、OPPO 推增距镜，苹果折叠屏 10/16 开预购",
+      "发布会与市场反响": "新品密集：苹果折叠屏 10/16 开预购，大疆、影翎 10/20 上新",
       "风险观察": "首要风险是存储涨价压需求；无人机出口管制 11/18 实施"
     },
     "2026-10-26": {
-      "手机镜头": "需求下行再确认：Counterpoint Q3 全球出货 -20%，丘钛模组 -16.7%",
-      "舜宇及同行": "同行分化：丘钛模组 -16.7%，歌尔 Q3 营收 -7.8% 仍扩 XR",
-      "财报与股市": "三季报承压：蓝思净利 -50%、弘景 -51%、歌尔营收 -7.8%",
-      "风险观察": "首要风险未变：存储涨价压制手机需求；无人机管制 11/18 生效",
-      "MR": "XR 同行扩产：歌尔 Q3 营收 -7.8%，存货与在建工程大增；XREAL 小改款",
-      "运动相机": "同行承压：弘景光电 Q3 净利 -51%，营收 -9%",
-      "发布会与市场反响": "AR 新品：XREAL 1 Pro+ 国行 3499 元，10/27 开售"
+      "手机镜头": "模组端同样减量：丘钛 9 月摄像头模组出货 -16.7%",
+      "MR": "XR 对手加码：歌尔存货 +71.7%、在建工程 +62.3%",
+      "运动相机": "直接对手利润腰斩：弘景光电 Q3 净利 -51%",
+      "舜宇及同行": "同行分化，汽车是亮点：丘钛汽车模组出货 +29.2%",
+      "财报与股市": "三季报承压：蓝思 Q3 净利 -50.42%，歌尔营收 -7.8%",
+      "发布会与市场反响": "AR 新品为小改款：XREAL 1 Pro+ 国行 3499 元，10/27 开售",
+      "风险观察": "首要风险未变：存储涨价压制手机需求；无人机管制 11/18 生效"
     }
   },
   "items": [
@@ -124,9 +124,15 @@
             "url": "https://finance.sina.com.cn/jjxw/2026-10-26/doc-iniwnzef2517734.shtml"
           }
         ],
-        "note": "未能打开原文：巨潮资讯 PDF 访问超时，证券日报刊登版表格缺失；两家媒体数字一致。主营三大领域据 2025 年报摘要核对：https://paper.cnstock.com/html/2026-04/20/content_2201763.htm"
+        "note": "未能打开原文：巨潮资讯 PDF 访问超时，证券日报刊登版表格缺失；两家媒体数字一致。主营三大领域据 2025 年报摘要核对：https://paper.cnstock.com/html/2026-04/20/content_2201763.htm",
+        "sources": [
+          "格隆汇",
+          "瑞财经",
+          "证券日报"
+        ]
       },
-      "edition": "2026-10-26"
+      "edition": "2026-10-26",
+      "next": "更多光学同行三季报：蓝特光学 10/28 披露、10/29 业绩说明会；水晶光电、欧菲光、联创电子、宇瞳光学截至 10/26 尚未披露"
     },
     {
       "id": "2026-10-25-lens-q3",
@@ -172,7 +178,12 @@
             "url": "https://www.nbd.com.cn/articles/2026-10-25/4616897.html"
           }
         ],
-        "note": "港交所版三季报（H 股 6613，2026-10-25）亦已打开核对：https://iis.aastocks.com/20261025/12382344-0.PDF"
+        "note": "港交所版三季报（H 股 6613，2026-10-25）亦已打开核对：https://iis.aastocks.com/20261025/12382344-0.PDF",
+        "sources": [
+          "深交所三季报",
+          "港交所版三季报",
+          "每日经济新闻"
+        ]
       },
       "edition": "2026-10-26"
     },
@@ -220,9 +231,14 @@
             "url": "https://finance.sina.cn/tech/2026-10-24/detail-iniwiqmq1873533.d.html?vt=4"
           }
         ],
-        "note": "国行价格与上代亮度来自 IT之家（据京东页面），未找到 XREAL 官方中文稿。"
+        "note": "国行价格与上代亮度来自 IT之家（据京东页面），未找到 XREAL 官方中文稿。",
+        "sources": [
+          "XREAL 新闻稿",
+          "IT之家"
+        ]
       },
-      "edition": "2026-10-26"
+      "edition": "2026-10-26",
+      "next": "10/27 国行开售：看首发销量与用户口碑，判断 AR 观影眼镜需求"
     },
     {
       "id": "2026-10-23-goertek-q3",
@@ -271,7 +287,11 @@
             "url": "https://epaper.cs.com.cn/zgzqb/images/2026-10/24/B165/zqB16524.pdf"
           }
         ],
-        "note": "公告日 2026-10-23（董事会审议），中国证券报 10/24 刊登全文；新浪公告页数字一致。"
+        "note": "公告日 2026-10-23（董事会审议），中国证券报 10/24 刊登全文；新浪公告页数字一致。",
+        "sources": [
+          "中国证券报（三季报原文）",
+          "经济参考网"
+        ]
       },
       "edition": "2026-10-26"
     },
@@ -319,8 +339,14 @@
             "url": "https://www.zhunshangshi.com/hq/detail.php?ts_code=688775.SH"
           }
         ],
-        "note": "市值与半年报总股本（约 4.01 亿股）× 收盘价推算结果一致。"
-      }
+        "note": "市值与半年报总股本（约 4.01 亿股）× 收盘价推算结果一致。",
+        "sources": [
+          "Yahoo 行情",
+          "影石半年报",
+          "准上市行情"
+        ]
+      },
+      "next": "影石创新三季报：截至 10/26 尚未披露，A 股三季报须在 10/31 前披露"
     },
     {
       "id": "2026-10-23-sunny-stock",
@@ -367,7 +393,11 @@
           }
         ],
         "note": "已更正：57.7 港元是 10/16（周五）收盘价，原文写成「10/12-10/15」，已改为「10/12-10/16」。",
-        "corrected": true
+        "corrected": true,
+        "sources": [
+          "Yahoo 行情",
+          "长桥证券"
+        ]
       }
     },
     {
@@ -416,7 +446,11 @@
             "url": "https://www.techritual.com/2026/10/22/593900/"
           }
         ],
-        "note": "230mm 由官方 70mm 等效焦距 × 3.28 推得；「不便」为评测观点。"
+        "note": "230mm 由官方 70mm 等效焦距 × 3.28 推得；「不便」为评测观点。",
+        "sources": [
+          "OPPO 新闻稿",
+          "Techritual"
+        ]
       }
     },
     {
@@ -459,7 +493,10 @@
             "url": "https://www.antigravity.tech/us/blog/News/Antigravity-FollowMeRC4G-Launch"
           }
         ],
-        "note": "仅官方一个来源。"
+        "note": "仅官方一个来源。",
+        "sources": [
+          "Antigravity 官方博客"
+        ]
       }
     },
     {
@@ -508,7 +545,11 @@
           }
         ],
         "note": "已更正：原来源为 10/15 预告稿，已换成大疆 10/20 官方开售新闻稿；€599 是黑色款首发价，未能核实为珍珠白售价，已改为「英国标准套装 £529」。60mm f/1.8 另见大疆规格页。",
-        "corrected": true
+        "corrected": true,
+        "sources": [
+          "大疆新闻稿",
+          "Camera Jabber"
+        ]
       }
     },
     {
@@ -550,8 +591,13 @@
             "url": "https://en.ubiresearchnet.com/xr-device-development-trends-focus-pro-eng/"
           }
         ],
-        "note": "Meta 页面对脚本访问返回 400，经浏览器方式打开核对。"
-      }
+        "note": "Meta 页面对脚本访问返回 400，经浏览器方式打开核对。",
+        "sources": [
+          "Meta 官方博客",
+          "UBI Research"
+        ]
+      },
+      "next": "Meta 新 VR 眼镜 2027 年春季上市，届时看光学方案与供应商"
     },
     {
       "id": "2026-10-16-iphone-duo",
@@ -591,6 +637,9 @@
             "source": "Apple 中国新闻稿",
             "url": "https://www.apple.com.cn/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/"
           }
+        ],
+        "sources": [
+          "Apple 新闻稿"
         ]
       }
     },
@@ -631,6 +680,9 @@
             "source": "大疆官方新闻稿",
             "url": "https://www.prnewswire.com/news-releases/dji-delivers-first-drone-dock-with-automated-25-second-battery-swaps-for-always-ready-aerial-support-302908510.html"
           }
+        ],
+        "sources": [
+          "大疆新闻稿"
         ]
       }
     },
@@ -676,7 +728,10 @@
           }
         ],
         "note": "原链接为 IDC 新闻稿列表页，已改为该条新闻稿原文。",
-        "corrected": true
+        "corrected": true,
+        "sources": [
+          "IDC 新闻稿"
+        ]
       }
     },
     {
@@ -718,7 +773,10 @@
           }
         ],
         "note": "中英文两版新闻稿数字一致；链接已改为原文。",
-        "corrected": true
+        "corrected": true,
+        "sources": [
+          "IDC 新闻稿"
+        ]
       }
     },
     {
@@ -764,7 +822,11 @@
             "url": "https://counterpointresearch.com/en/insights/global-smartphone-shipments-hit-a-new-low-with-20-percent-yoy-decline-lowest-in-14-years"
           }
         ],
-        "note": "Omdia（原 Canalys）10/15 亦报 -20% 与相近份额，作第二来源；此前站点仅收录 IDC -22%。"
+        "note": "Omdia（原 Canalys）10/15 亦报 -20% 与相近份额，作第二来源；此前站点仅收录 IDC -22%。",
+        "sources": [
+          "Counterpoint",
+          "Omdia"
+        ]
       },
       "edition": "2026-10-26"
     },
@@ -813,9 +875,14 @@
             "url": "https://www.qtechsmartvision.com/ueditor/php/upload/file/20261012/1791799222776667.pdf"
           }
         ],
-        "note": "10/12 公告，此前未收录，10/26 补录；数字与爱集微报道一致。"
+        "note": "10/12 公告，此前未收录，10/26 补录；数字与爱集微报道一致。",
+        "sources": [
+          "丘钛公告",
+          "爱集微"
+        ]
       },
-      "edition": "2026-10-26"
+      "edition": "2026-10-26",
+      "next": "丘钛 10 月出货月报：9 月数据于 10/12 公告，10 月数据预计 11 月中旬前后公布"
     },
     {
       "id": "2026-10-10-vivo-vision",
@@ -856,7 +923,10 @@
             "url": "https://vivonewsroom.in/press-release/vivo-expands-its-technology-ecosystem-with-the-showcase-of-its-first-mr-headset1/"
           }
         ],
-        "note": "原报道（VR陀螺）与 vivo 官方新闻稿一致。"
+        "note": "原报道（VR陀螺）与 vivo 官方新闻稿一致。",
+        "sources": [
+          "vivo 官方新闻室"
+        ]
       }
     },
     {
@@ -897,8 +967,12 @@
             "url": "https://www.gseo.com/tw/investor-relations"
           }
         ],
-        "note": "仅公司官方一个来源（官方月报）。"
-      }
+        "note": "仅公司官方一个来源（官方月报）。",
+        "sources": [
+          "玉晶光投资人关系"
+        ]
+      },
+      "next": "玉晶光 10 月营收：台股须在 11/10 前公布"
     },
     {
       "id": "2026-10-09-largan-cpo",
@@ -944,8 +1018,13 @@
             "url": "https://ec.ltn.com.tw/article/paper/1773790"
           }
         ],
-        "note": "自由时报原文对脚本访问返回 403，经浏览器方式打开核对。"
-      }
+        "note": "自由时报原文对脚本访问返回 403，经浏览器方式打开核对。",
+        "sources": [
+          "自由时报",
+          "中央社"
+        ]
+      },
+      "next": "大立光光纤阵列规划 2027 年量产"
     },
     {
       "id": "2026-10-08-largan-q3",
@@ -986,8 +1065,13 @@
             "url": "https://www.cna.com.tw/news/afe/202610080326.aspx"
           }
         ],
-        "note": "简报未提 11 月展望，该点以中央社法说会报道为据。"
-      }
+        "note": "简报未提 11 月展望，该点以中央社法说会报道为据。",
+        "sources": [
+          "大立光法说会简报",
+          "中央社"
+        ]
+      },
+      "next": "大立光 10 月营收（台股须在 11/10 前公布）；公司已预告 11 月拉货下滑"
     },
     {
       "id": "2026-10-06-vivo-x500",
@@ -1029,6 +1113,9 @@
             "source": "vivo 官方新闻稿",
             "url": "https://www.prnewswire.com/news-releases/vivo-x500-series-debuts-with-advanced-zeiss-telephoto-lens-system-and-cinematic-video-capabilities-302894897.html"
           }
+        ],
+        "sources": [
+          "vivo 新闻稿"
         ]
       }
     },
@@ -1069,6 +1156,10 @@
             "source": "大立光法说会简报",
             "url": "https://www.largan.com.tw/tw/tool-download/investor_shareholder_1/file/18/%E6%9C%AC%E5%85%AC%E5%8F%B82026%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E4%B8%AD%E6%96%87%E7%B7%9A%E4%B8%8A%E6%B3%95%E8%AA%AA%E6%9C%83%E5%B7%B2%E8%A8%82%E6%96%BC%E5%8D%81%E6%9C%88%E5%85%AB%E6%97%A5%EF%BC%88%E6%98%9F%E6%9C%9F%E5%9B%9B%EF%BC%89%E4%B8%8B%E5%8D%88%E5%85%A9%E9%BB%9E%E4%B8%89%E5%8D%81%E5%88%86%E8%88%89%E8%A1%8C%E7%B0%A1%E5%A0%B1%E8%B3%87%E6%96%99?note=%E7%B0%A1%E5%A0%B1%E8%B3%87%E6%96%99"
           }
+        ],
+        "sources": [
+          "中央社",
+          "大立光法说会简报"
         ]
       }
     },
@@ -1110,8 +1201,12 @@
             "url": "https://fccid.ai/2AWWH-CINSABUA"
           }
         ],
-        "note": "截至 10/25 影石未官宣新品；「已官方确认」类媒体稿未采信。fccid.ai 对脚本返回 403，经浏览器方式打开；FCC 官网查询页 403 未能打开原文。"
-      }
+        "note": "截至 10/25 影石未官宣新品；「已官方确认」类媒体稿未采信。fccid.ai 对脚本返回 403，经浏览器方式打开；FCC 官网查询页 403 未能打开原文。",
+        "sources": [
+          "FCC 备案"
+        ]
+      },
+      "next": "等 Insta360 正式发布 Ace Pro 3（日期未公布），再评估镜头规格"
     },
     {
       "id": "2026-09-23-idc-handheld-camera",
@@ -1154,7 +1249,10 @@
           }
         ],
         "note": "链接已改为该条新闻稿原文。",
-        "corrected": true
+        "corrected": true,
+        "sources": [
+          "IDC 新闻稿"
+        ]
       }
     },
     {
@@ -1197,6 +1295,9 @@
             "source": "舜宇 2026 中报（港交所）",
             "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0921/2026092100313.pdf"
           }
+        ],
+        "sources": [
+          "舜宇中报"
         ]
       }
     },
@@ -1240,8 +1341,12 @@
             "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0921/2026092100313.pdf"
           }
         ],
-        "note": "公司官方披露，单一来源即为原始文件。"
-      }
+        "note": "公司官方披露，单一来源即为原始文件。",
+        "sources": [
+          "舜宇中报"
+        ]
+      },
+      "next": "舜宇 2026 全年业绩：往年于次年 3 月发布"
     },
     {
       "id": "2026-08-20-aac-optics",
@@ -1282,6 +1387,9 @@
             "source": "瑞声中报（港交所）",
             "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000181.pdf"
           }
+        ],
+        "sources": [
+          "瑞声中报"
         ]
       }
     },
@@ -1322,8 +1430,27 @@
             "source": "舜宇公告（港交所）",
             "url": "https://www.sunnyoptical.com/webfile/temps/202601091782135615.pdf"
           }
+        ],
+        "sources": [
+          "舜宇公告"
         ]
       }
     }
-  ]
+  ],
+  "conclusions": {
+    "2026-10-25": {
+      "text": "今天对舜宇最重要的是：手机需求进入下行期，增长要靠增距镜、XR、汽车等非手机业务。",
+      "points": [
+        "IDC 称手机市场尚未见底，复苏最早要到 2028 年",
+        "舜宇上半年手机业务基本持平，汽车 +10.6%"
+      ]
+    },
+    "2026-10-26": {
+      "text": "今天对舜宇最重要的是：第二家机构确认手机需求下行，四季度手机业务宜按下行情景安排。",
+      "points": [
+        "Counterpoint 估 Q3 全球手机出货 -20%，与 IDC -22% 同向",
+        "同行三季报普遍承压，对外沟通宜突出利润率与非手机业务"
+      ]
+    }
+  }
 }
