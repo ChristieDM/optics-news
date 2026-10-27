@@ -258,6 +258,17 @@ main{touch-action:pan-y}
 @media (prefers-color-scheme:dark){:root:not([data-theme=light]) .newpill{background:#1E6BC0}}
 .flash{animation:fl 1.6s ease-out 1}
 @keyframes fl{0%,40%{box-shadow:0 0 0 3px var(--ink)}100%{box-shadow:0 1px 2px var(--shade)}}
+/* ---------- v9 · 第 1 批（借鉴财联社/华尔街见闻时间轴、Apple News 连续阅读、阅读字号） ---------- */
+html.fs-l{font-size:19px}
+.dg{position:sticky;top:calc(env(safe-area-inset-top) + 54px);z-index:5;display:flex;align-items:center;gap:8px;margin:14px -2px 8px;padding:5px 4px;background:var(--bg);font-size:.8rem;font-weight:800;color:var(--ink);letter-spacing:.3px}
+.dg:after{content:"";flex:1;height:1px;background:var(--line)}
+.dg small{font-size:.72rem;font-weight:600;color:var(--meta)}
+.dg:first-child{margin-top:4px}
+.nxb{flex:none;margin-left:6px;background:var(--brand);color:#fff;border:0;border-radius:999px;min-height:34px;padding:0 14px;font-size:.82rem;font-weight:700;cursor:pointer;transition:transform .14s cubic-bezier(.2,.8,.2,1)}
+.nxb:active{transform:scale(.94)}
+:root[data-theme=dark] .nxb{background:#1E6BC0}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .nxb{background:#1E6BC0}}
+.fav+.nxb{margin-left:4px}
 @media (prefers-reduced-motion:reduce){*,*:before,*:after{transition:none!important;animation:none!important;scroll-behavior:auto!important}}
 </style>
 </head>
@@ -279,9 +290,10 @@ var mem={};
 function sget(k){try{return JSON.parse(localStorage.getItem(k)||"null");}catch(e){return mem[k]||null;}}
 function sset(k,v){try{localStorage.setItem(k,JSON.stringify(v));}catch(e){mem[k]=v;}}
 function setOf(k){var a=sget(k);return Array.isArray(a)?a:[];}
-var READ=setOf("on-read"),FAV=setOf("on-fav"),OFF=!!sget("on-official"),THEME=sget("on-theme")||"auto";
+var READ=setOf("on-read"),FAV=setOf("on-fav"),OFF=!!sget("on-official"),THEME=sget("on-theme")||"auto",FS=sget("on-fs")||"std";
 function applyTheme(){if(THEME==="auto")document.documentElement.removeAttribute("data-theme");else document.documentElement.setAttribute("data-theme",THEME);}
-applyTheme();
+function applyFs(){document.documentElement.classList.toggle("fs-l",FS==="l");}
+applyTheme();applyFs();
 function isRead(id){return READ.indexOf(id)>=0;}
 function isFav(id){return FAV.indexOf(id)>=0;}
 function markRead(id){if(!isRead(id)){READ.push(id);sset("on-read",READ);}}
@@ -334,7 +346,7 @@ function card(n,showCats){
     ((ic||n.takeaway||(n.factcheck&&n.factcheck.points&&n.factcheck.points.length))?'<div class="ana"><span class="lb">对舜宇意味着什么 · 我们的判断</span>'+(ic?dirTag(ic.dir)+hi(ic.text):'')+(n.takeaway?(ic?'<p class="tk">':'<p class="tk" style="margin:0">')+'<b>建议</b>'+hi(n.takeaway)+'</p>':'')+fcBlock(n.factcheck,n.id)+'</div>':'')+
     (n.next?'<div class="nx"><span class="lb">接下来看什么</span>'+hi(n.next)+'</div>':'')+
     '<div class="foot"><a class="s" href="'+esc(n.url)+'" target="_blank" rel="noopener" data-read="'+esc(n.id)+'">原文：'+hi(n.source)+' ↗</a>'+
-    (n.tags||[]).slice(0,3).map(function(t){return '<button class="tag" data-tag="'+esc(t)+'">#'+hi(t)+'</button>';}).join("")+favBtn(n.id)+'</div></div></article>';
+    (n.tags||[]).slice(0,3).map(function(t){return '<button class="tag" data-tag="'+esc(t)+'">#'+hi(t)+'</button>';}).join("")+favBtn(n.id)+'<button class="nxb" data-next="1" aria-label="收起并打开下一条">下一条 ›</button></div></div></article>';
   return h;
 }
 function favBtn(id){var f=isFav(id);return '<button class="fav'+(f?' on':'')+'" data-fav="'+esc(id)+'">'+(f?'★ 已收藏':'☆ 收藏')+'</button>';}
@@ -389,7 +401,22 @@ function listBlock(title,list,showCats){
   if(!list.length)return h+(d==="all"?'<div class="empty">暂时没有条目。</div>':emptyDay(d));
   var es=LV2==="feed"?endState(list):"";
   if(!l.length)return h+(es?es.replace('</p>','<br><button class="go" data-rf="全部">查看全部</button></p>'):'<div class="empty">都读完了。<br><button class="go" data-rf="全部">查看全部</button></div>');
-  return h+l.map(function(n){return card(n,showCats);}).join("")+es;
+  return h+(d==="all"&&multiDay(l)?grouped(l,function(n){return card(n,showCats);}):l.map(function(n){return card(n,showCats);}).join(""))+es;
+}
+/* v9 时间轴：跨日期的列表按发布日分组，日期条吸顶（全部日期 / 搜索 / 专题 / 收藏） */
+function grouped(list,fn){var last="",h="",t=todaySH(),c={};list.forEach(function(n){c[n.date]=(c[n.date]||0)+1;});
+  list.forEach(function(n){if(n.date!==last){last=n.date;h+='<div class="dg">'+(n.date===t?'今天':md(n.date))+' '+wk(n.date)+'<small>'+c[n.date]+' 条</small></div>';}h+=fn(n);});return h;}
+function multiDay(list){for(var i=1;i<list.length;i++)if(list[i].date!==list[0].date)return true;return false;}
+function cleanDg(){var g=app.querySelectorAll(".dg");for(var i=0;i<g.length;i++){var x=g[i].nextElementSibling;if(!x||!x.classList.contains("it"))g[i].remove();}}
+/* v9 连续阅读：收起当前条，打开并定位到同一列表的下一条 */
+function nextCard(c){
+  if(!c)return;var nx=c.nextElementSibling;while(nx&&!(nx.classList.contains("it")&&nx.querySelector("[data-next]")))nx=nx.nextElementSibling;
+  var id=c.dataset.id;OPEN[id]=false;if(c._a){try{c._a.cancel();}catch(e){}c._a=null;c.style.overflow="";}c.classList.remove("open","x");
+  if(!nx){c.scrollIntoView({block:"center",behavior:RM()?"auto":"smooth"});toast("已是本列表最后一条");return;}
+  var nid=nx.dataset.id,th=(top.getBoundingClientRect().height||56)+8,y=nx.getBoundingClientRect().top+window.scrollY-th;
+  window.scrollTo({top:Math.max(0,y),behavior:RM()?"auto":"smooth"});
+  OPEN[nid]=true;toggleCard(nx,true);
+  if(!isRead(nid)){markRead(nid);nx.classList.add("read");var cb=nx.querySelector(".rc");if(cb){cb.classList.add("on");cb.setAttribute("aria-checked","true");cb.setAttribute("aria-label","已读，点按标为未读");pop(cb.querySelector("i"),1.2);}updateSeg();updateDone();}
 }
 function emptyDay(d){return '<div class="empty">'+md(d)+' '+wk(d)+' 没有收录新闻。<br><small>只收录有官方或权威来源的条目，不是每天都有。</small><br><button class="go" data-d="today">回到今天</button></div>';}
 /* ---------- 顶栏 / 底栏 ---------- */
@@ -497,7 +524,7 @@ function risks(){
 function favs(){
   var n=NEWS.items.filter(function(x){return isFav(x.id);}).sort(byDate),r=RISKS.items.filter(function(x){return isFav("r:"+x.id);}).sort(byDate);
   if(!n.length&&!r.length)return '<div class="empty">还没有收藏。<br>展开一条新闻，点「☆ 收藏」即可。<br><small>收藏只保存在本机。</small></div>';
-  return '<p class="intro">共 '+(n.length+r.length)+' 条 · 仅保存在本机</p>'+n.map(function(x){return card(x,true);}).join("")+(r.length?'<div class="lh"><h3>风险观察</h3></div>'+r.map(riskCard).join(""):'');
+  return '<p class="intro">共 '+(n.length+r.length)+' 条 · 仅保存在本机</p>'+grouped(n,function(x){return card(x,true);})+(r.length?'<div class="lh"><h3>风险观察</h3></div>'+r.map(riskCard).join(""):'');
 }
 function match(o,q){q=q.toLowerCase();return [o.title,o.summary,o.source,(o.tags||[]).join(" "),(o.cats||[]).join(" "),o.sub||"",o.impact&&o.impact.text||"",o.takeaway||""].join(" ").toLowerCase().indexOf(q)>=0;}
 function searchResults(q){
@@ -508,14 +535,14 @@ function searchResults(q){
   var n=NEWS.items.filter(function(x){return match(x,q);}).sort(byDate),r=RISKS.items.filter(function(x){return match(x,q);}).sort(byDate);
   var h='<p class="intro">「'+esc(q)+'」共 '+(n.length+r.length)+' 条结果（所有日期）</p>';
   if(!n.length&&!r.length)h+='<div class="empty">没有找到相关条目，换个关键词试试。</div>';
-  h+=n.map(function(x){return card(x,true);}).join("");
+  h+=multiDay(n)?grouped(n,function(x){return card(x,true);}):n.map(function(x){return card(x,true);}).join("");
   if(r.length)h+='<div class="lh"><h3>风险观察</h3></div>'+r.map(riskCard).join("");
   return h;
 }
 function tagPage(t){
   var l=NEWS.items.filter(function(n){return (n.tags||[]).indexOf(t)>=0;}).sort(byDate);
   if(!l.length)return '<div class="empty">没有带 #'+esc(t)+' 标签的条目。</div>';
-  return '<p class="intro">专题 · '+l.length+' 条 · '+esc(md(l[l.length-1].date))+' 至 '+esc(md(l[0].date))+'</p>'+l.map(function(n){return card(n,true);}).join("");
+  return '<p class="intro">专题 · '+l.length+' 条 · '+esc(md(l[l.length-1].date))+' 至 '+esc(md(l[0].date))+'</p>'+(multiDay(l)?grouped(l,function(n){return card(n,true);}):l.map(function(n){return card(n,true);}).join(""));
 }
 /* ---------- v6 动效工具 ---------- */
 var E="cubic-bezier(.2,.8,.2,1)";
@@ -548,9 +575,9 @@ function toggleCard(c,open){
   a.onfinish=function(){c._a=null;c.style.overflow="";if(!open)c.classList.remove("open");};
 }
 function removeCard(c,after){
-  if(!canAnim()){c.remove();if(after)after();return;}
+  if(!canAnim()){c.remove();cleanDg();if(after)after();return;}
   var h=c.getBoundingClientRect().height;c.style.overflow="hidden";c.style.pointerEvents="none";
-  c.animate([{height:h+"px",opacity:1,marginBottom:"10px",transform:"none"},{height:"0px",opacity:0,marginBottom:"0px",transform:"scale(.97)"}],{duration:280,easing:E,fill:"forwards"}).onfinish=function(){c.remove();if(after)after();};
+  c.animate([{height:h+"px",opacity:1,marginBottom:"10px",transform:"none"},{height:"0px",opacity:0,marginBottom:"0px",transform:"scale(.97)"}],{duration:280,easing:E,fill:"forwards"}).onfinish=function(){c.remove();cleanDg();if(after)after();};
 }
 function updateSeg(){var b=app.querySelector('.seg [data-rf="未读"]');if(b)b.textContent="未读 "+unread(lastList);}
 /* ---------- 页面转场：旧页面快照 + 新页面入场 ---------- */
@@ -626,6 +653,7 @@ function menuSheet(){
     '<button class="mi" data-off="1"><span>只看官方来源</span><i class="sw'+(OFF?' on':'')+'"></i></button>'+
     (canAll?'<button class="mi" data-allread="1"><span>'+(r.v==="home"?'当日所有板块全部标为已读':'当前列表全部标为已读')+'</span><small>'+unread(lastList)+' 条未读</small></button>':'')+
     '<div class="mi" style="cursor:default"><span>外观</span><div class="th">'+[["auto","跟随系统"],["light","浅色"],["dark","深色"]].map(function(x){return '<button data-theme="'+x[0]+'" class="'+(THEME===x[0]?'on':'')+'">'+x[1]+'</button>';}).join("")+'</div></div>'+
+    '<div class="mi" style="cursor:default"><span>字号</span><div class="th">'+[["std","标准"],["l","大"]].map(function(x){return '<button data-fs="'+x[0]+'" class="'+(FS===x[0]?'on':'')+'">'+x[1]+'</button>';}).join("")+'</div></div>'+
     '<h4 style="margin-top:14px">关于来源与分析</h4><div class="about"><p>标「官方」的条目来自公司公告、官网或权威机构；其余为行情数据、评测或对官方活动的媒体报道。</p><p>「分析」开头的内容（利好/利空、对舜宇影响、建议）是我们的判断，不是新闻事实。</p><p>「事实核查」：我们逐条打开原文，并尽量找第二个独立来源，核对标题和摘要里的关键数字与说法。✓ 一致、! 有出入（已更正或说明）、? 未找到；状态分 已核实 / 部分核实 / 待核实。</p>'+(NEWS.note?'<p>本期说明：'+esc(NEWS.note)+'</p>':'')+'<p>数据更新：'+esc(NEWS.updated)+'</p></div>';
   openSheet(h);
 }
@@ -634,6 +662,7 @@ function infoSheet(){
     '<p>顶部<b>结论</b>、板块一句话、利好 / 利空、「对舜宇意味着什么」都是我们根据当日条目做的判断，不是新闻事实；数字只取自条目原文，首页同一个数字只出现一次。</p>'+
     '<p>板块右上角是未读条数，<b style="color:var(--good)">✓</b> 表示已读完；标题下的细条是当日阅读进度。标「最新」的板块是当日最新一条的标题（当天还没写一句话时显示）。</p>'+
     '<p>只收录有官方或权威来源的条目，当日没有条目的板块不显示；每条都附「事实核查」，点开卡片可看。</p>'+
+    '<p>展开一条后，点底部「下一条 ›」可收起当前条并直接读下一条。选「全部日期」、搜索或专题时，新闻按发布日分组。右上角菜单可把字号调大。</p>'+
     '<p>左右滑动或点 ‹ › 切换日期。每天 08:00–22:00（北京时间）每小时更新，有新内容时顶部会提示。</p>'+
     (OFF?'<p>已开启只看官方来源，条数只计官方来源。</p>':'')+'</div>';
   openSheet(h);
@@ -671,7 +700,7 @@ function render(keep,kind,from,toTop){
   topAnim(g?kind:null);
   if(kind==="init"||kind==="fadeS"||kind==="fadeL"){
     if(r.v==="home"&&kind!=="fadeL")stagger(".hh,.pg,.tip,.concl,.gh,.tile,.empty,.done",34,12);
-    else if(r.v!=="home")stagger(".csum,.kn.inpage,.lh,.tip,.chips,.intro,.it,.empty,.done",26,8);
+    else if(r.v!=="home")stagger(".csum,.kn.inpage,.lh,.tip,.chips,.intro,.dg,.it,.empty,.done",26,8);
   }
   if(r.v==="search"){var q=document.getElementById("q");if(q&&!r.q&&!keep)q.focus();}
 }
@@ -699,6 +728,8 @@ document.addEventListener("click",function(e){
   if(t.closest("[data-menu]")){menuSheet();return;}
   var ar=t.closest("[data-allread]");if(ar){var nn=unread(lastList);lastList.forEach(function(n){markRead(n.id);});closeSheet();soft("fadeL");toast(nn?"已将 "+nn+" 条标为已读":"没有未读条目");return;}
   var of=t.closest("[data-off]");if(of){OFF=!OFF;sset("on-official",OFF);of.querySelector(".sw").classList.toggle("on",OFF);soft("fadeL");toast(OFF?"已开启：只看官方来源":"已关闭：显示全部来源");return;}
+  var fsb=t.closest("[data-fs]");if(fsb){FS=fsb.dataset.fs;sset("on-fs",FS);applyFs();menuSheet();toast(FS==="l"?"已切换为大字号":"已切换为标准字号");return;}
+  var nxb=t.closest("[data-next]");if(nxb){nextCard(nxb.closest(".it"));return;}
   var th=t.closest("[data-theme]");if(th){THEME=th.dataset.theme;sset("on-theme",THEME);applyTheme();menuSheet();return;}
   var dd=t.closest("[data-d]");if(dd){var inSheet=!!dd.closest(".sheet");closeSheet();setDay(dd.dataset.d,inSheet?"fadeS":null);return;}
   var rfb=t.closest("[data-rf]");if(rfb){if(rf===rfb.dataset.rf)return;rf=rfb.dataset.rf;saveUi();soft("fadeL");return;}
