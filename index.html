@@ -331,9 +331,8 @@ function card(n,showCats){
     (ic?'<div class="imp"><i class="dot '+dcls(ic.dir)+'"></i><span class="dir '+dcls(ic.dir)+'">'+esc(ic.dir)+'</span> <span class="al">分析</span>'+hi(ic.text)+'</div>':'')+
     '<div class="meta v8">'+meta.join('')+'</div>'+CV+'</div>'+
     '<div class="body"><p class="sum"><span class="lb">发生了什么</span>'+hi(n.summary)+'</p>'+
-    ((ic||n.takeaway)?'<div class="ana"><span class="lb">对舜宇意味着什么 · 我们的判断</span>'+(ic?dirTag(ic.dir)+hi(ic.text):'')+(n.takeaway?(ic?'<p class="tk">':'<p class="tk" style="margin:0">')+'<b>建议</b>'+hi(n.takeaway)+'</p>':'')+'</div>':'')+
+    ((ic||n.takeaway||(n.factcheck&&n.factcheck.points&&n.factcheck.points.length))?'<div class="ana"><span class="lb">对舜宇意味着什么 · 我们的判断</span>'+(ic?dirTag(ic.dir)+hi(ic.text):'')+(n.takeaway?(ic?'<p class="tk">':'<p class="tk" style="margin:0">')+'<b>建议</b>'+hi(n.takeaway)+'</p>':'')+fcBlock(n.factcheck,n.id)+'</div>':'')+
     (n.next?'<div class="nx"><span class="lb">接下来看什么</span>'+hi(n.next)+'</div>':'')+
-    fcBlock(n.factcheck,n.id)+
     '<div class="foot"><a class="s" href="'+esc(n.url)+'" target="_blank" rel="noopener" data-read="'+esc(n.id)+'">原文：'+hi(n.source)+' ↗</a>'+
     (n.tags||[]).slice(0,3).map(function(t){return '<button class="tag" data-tag="'+esc(t)+'">#'+hi(t)+'</button>';}).join("")+favBtn(n.id)+'</div></div></article>';
   return h;
