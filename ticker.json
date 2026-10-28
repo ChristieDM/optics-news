@@ -119,6 +119,15 @@
       "dir": -1
     },
     {
+      "id": "2026-10-19-counterpoint-china-q3",
+      "label": "中国手机出货 Q3（CP）",
+      "value": "同比 -10%",
+      "delta": "14 年同期最低",
+      "asof": "10-19",
+      "source": "Counterpoint",
+      "dir": 1
+    },
+    {
       "id": "2026-10-13-idc-china-q3",
       "label": "中国手机出货 Q3",
       "value": "约 5790 万台",
