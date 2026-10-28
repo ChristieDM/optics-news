@@ -2,6 +2,15 @@
   "label": "数据速览 · 摘自下方条目 · 非实时行情",
   "items": [
     {
+      "id": "2026-10-28-hk-apple-chain-stock",
+      "label": "舜宇光学（港股）",
+      "value": "66.70 港元",
+      "delta": "+5.29%",
+      "asof": "10-28 午间",
+      "source": "腾讯行情",
+      "dir": 1
+    },
+    {
       "id": "2026-10-28-insta360-q3",
       "label": "影石创新 Q3 归母净利",
       "value": "1743 万元",
@@ -89,15 +98,6 @@
       "delta": "14 年最差",
       "asof": "10-12",
       "source": "Counterpoint",
-      "dir": 1
-    },
-    {
-      "id": "2026-10-23-sunny-stock",
-      "label": "舜宇光学（港股）",
-      "value": "63.15 港元",
-      "delta": "+4.99%",
-      "asof": "10-23 收盘",
-      "source": "长桥证券行情",
       "dir": 1
     },
     {
