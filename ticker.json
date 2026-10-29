@@ -2,6 +2,15 @@
   "label": "数据速览 · 摘自下方条目 · 非实时行情",
   "items": [
     {
+      "id": "2026-10-29-ofilm-limitdown",
+      "label": "欧菲光（A股）",
+      "value": "5.67 元",
+      "delta": "-10.00%",
+      "asof": "10-29 收盘",
+      "source": "深交所行情",
+      "dir": -1
+    },
+    {
       "id": "2026-10-28-gseo-limitup-3m",
       "label": "玉晶光（台股）",
       "value": "1330 新台币",
