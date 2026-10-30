@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28 22:15（北京时间）",
+  "updated": "2026-10-30 08:10（北京时间）",
   "subs": [
     "政策与地缘",
     "上下游供应链",
@@ -7,6 +7,47 @@
     "竞争格局"
   ],
   "items": [
+    {
+      "id": "risk-2026-10-29-samsung-mx-cost",
+      "date": "2026-10-29",
+      "sub": "上下游供应链",
+      "title": "三星：存储涨价让手机业务连续两季亏损，成本压力将延续到 2027 年",
+      "summary": "三星手机与网络业务 Q3 营业亏损 0.6 万亿韩元，公司称中低端机型销量持续下滑、Q4 手机收入预计环比下降，原材料涨价延续到明年。安卓大客户成本承压，可能向镜头与模组传导降价压力。",
+      "impact": "利空",
+      "severity": "中",
+      "source": "三星电子官方新闻稿 / Q3 电话会",
+      "url": "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-10-30 08:10",
+        "points": [
+          {
+            "claim": "MX 与网络业务 Q3 营业亏损 0.6 万亿韩元",
+            "verdict": "一致",
+            "source": "三星电子新闻稿",
+            "url": "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results"
+          },
+          {
+            "claim": "中低端销量下滑、Q4 MX 收入预计环比下降、原材料涨价延续到 2027 年",
+            "verdict": "一致",
+            "source": "三星 Q3 电话会实录（Investing.com）",
+            "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-samsung-electronics-posts-record-q3-2026-profit-93CH-4981365"
+          },
+          {
+            "claim": "连续第二个季度亏损（Q2 亏 0.7 万亿韩元）",
+            "verdict": "一致",
+            "source": "The Asia Business Daily（亚洲经济）",
+            "url": "https://www.asiae.co.kr/en/article/2026102914192350651"
+          }
+        ],
+        "sources": [
+          "三星电子",
+          "Investing.com",
+          "The Asia Business Daily"
+        ],
+        "note": "10/29 发布，此前未收录，今日补录。「向镜头与模组传导降价压力」为我们的判断。"
+      }
+    },
     {
       "id": "risk-2026-10-14-idc-memory",
       "date": "2026-10-14",
