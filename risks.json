@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31 11:10（北京时间）",
+  "updated": "2026-10-31 15:10（北京时间）",
   "subs": [
     "政策与地缘",
     "上下游供应链",
@@ -7,6 +7,46 @@
     "竞争格局"
   ],
   "items": [
+    {
+      "id": "risk-2026-10-30-fcc-testlabs",
+      "date": "2026-10-30",
+      "sub": "政策与地缘",
+      "title": "美 FCC 投票限制中国检测实验室：2028 年 12 月起不再认可，商务部表态反对",
+      "summary": "FCC 于美东时间 10/29 投票，自 2028 年 12 月 1 日起不再授权位于中国等「非互惠经济体」的检测实验室、认证及认可机构，此前已获的授权不受影响。商务部 10/30 晚回应称此举抬高企业检测成本、拉长交付和迭代周期，如美方一意孤行将进一步采取措施。手机、无人机、运动相机等输美终端的认证成本与周期可能上升，对舜宇是间接影响，订单影响无法由此推断。",
+      "impact": "利空",
+      "severity": "低",
+      "source": "商务部新闻发言人答记者问",
+      "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_2004ee7d8e1a436990b8593c8c2f81e9.html",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-10-31 15:10",
+        "points": [
+          {
+            "claim": "FCC 美东时间 10/29 投票，自 2028 年 12 月 1 日起禁止授权位于中国等「非互惠经济体」的检测实验室、认证及认可机构",
+            "verdict": "一致",
+            "source": "商务部新闻办公室",
+            "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_2004ee7d8e1a436990b8593c8c2f81e9.html"
+          },
+          {
+            "claim": "过渡期到 2028 年 12 月 1 日，此前已获授权或已受理的申请不受影响",
+            "verdict": "一致",
+            "source": "Covington Inside Global Tech",
+            "url": "https://www.insideglobaltech.com/2026/10/30/fcc-adopts-new-rules-limiting-the-use-of-certain-foreign-test-labs-in-equipment-authorizations/"
+          },
+          {
+            "claim": "商务部称将抬高检测成本、拉长交付和迭代周期，如美方一意孤行将进一步采取必要措施",
+            "verdict": "一致",
+            "source": "中国新闻网（转载商务部）",
+            "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723659.shtml"
+          }
+        ],
+        "sources": [
+          "商务部",
+          "Covington Inside Global Tech"
+        ],
+        "note": "10/30 发布，此前未收录，今日补录。中新网为商务部原文转载，不另计独立来源。「对舜宇是间接影响」为我们的判断。"
+      }
+    },
     {
       "id": "risk-2026-10-29-samsung-mx-cost",
       "date": "2026-10-29",
