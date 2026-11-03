@@ -2,6 +2,33 @@
   "label": "数据速览 · 摘自下方条目 · 非实时行情",
   "items": [
     {
+      "id": "2026-11-02-apple-fq4",
+      "label": "苹果 iPhone FQ4",
+      "value": "575.83 亿美元",
+      "delta": "约 +17%",
+      "asof": "11-02",
+      "source": "SEC/Apple",
+      "dir": 1
+    },
+    {
+      "id": "2026-11-02-apple-fq4",
+      "label": "苹果总营收 FQ4",
+      "value": "1144.77 亿美元",
+      "delta": "+12%",
+      "asof": "11-02",
+      "source": "SEC/Apple",
+      "dir": 1
+    },
+    {
+      "id": "2026-11-02-apple-fq4",
+      "label": "苹果大中华区 FQ4",
+      "value": "175.39 亿美元",
+      "delta": "约 +21%",
+      "asof": "11-02",
+      "source": "SEC/Apple",
+      "dir": 1
+    },
+    {
       "id": "2026-11-02-peer-rebound",
       "label": "影石创新（A股）",
       "value": "97.56 元",
