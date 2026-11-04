@@ -2,6 +2,33 @@
   "label": "数据速览 · 摘自下方条目 · 非实时行情",
   "items": [
     {
+      "id": "2026-11-03-tw-lens-limitdown",
+      "label": "大立光（台股）",
+      "value": "4945 新台币",
+      "delta": "-9.93%",
+      "asof": "11-03 收盘",
+      "source": "台湾证交所",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-03-tw-lens-limitdown",
+      "label": "玉晶光（台股）",
+      "value": "936 新台币",
+      "delta": "-9.57%",
+      "asof": "11-03 收盘",
+      "source": "台湾证交所",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-03-tw-lens-limitdown",
+      "label": "舜宇光学（港股）",
+      "value": "62.05 港元",
+      "delta": "-2.36%",
+      "asof": "11-03 收盘",
+      "source": "腾讯/新浪行情",
+      "dir": -1
+    },
+    {
       "id": "2026-11-02-apple-fq4",
       "label": "苹果 iPhone FQ4",
       "value": "575.83 亿美元",
