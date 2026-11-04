@@ -2,6 +2,33 @@
   "label": "数据速览 · 摘自下方条目 · 非实时行情",
   "items": [
     {
+      "id": "2026-11-04-ashare-optics-rally",
+      "label": "蓝特光学（A股）",
+      "value": "43.03 元",
+      "delta": "+12.06%",
+      "asof": "11-04 收盘",
+      "source": "新浪/腾讯行情",
+      "dir": 1
+    },
+    {
+      "id": "2026-11-04-ashare-optics-rally",
+      "label": "影石创新（A股）",
+      "value": "103.63 元",
+      "delta": "+8.30%",
+      "asof": "11-04 收盘",
+      "source": "新浪/腾讯行情",
+      "dir": 1
+    },
+    {
+      "id": "2026-11-04-ashare-optics-rally",
+      "label": "水晶光电（A股）",
+      "value": "23.50 元",
+      "delta": "+8.05%",
+      "asof": "11-04 收盘",
+      "source": "新浪/腾讯行情",
+      "dir": 1
+    },
+    {
       "id": "2026-11-03-tw-lens-limitdown",
       "label": "大立光（台股）",
       "value": "4945 新台币",
