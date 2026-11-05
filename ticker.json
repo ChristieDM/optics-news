@@ -2,6 +2,42 @@
   "label": "数据速览 · 摘自下方条目 · 非实时行情",
   "items": [
     {
+      "id": "2026-11-05-insta360-close-rally",
+      "label": "影石创新（A股）",
+      "value": "110.80 元",
+      "delta": "+6.92%",
+      "asof": "11-05 收盘",
+      "source": "新浪/腾讯行情",
+      "dir": 1
+    },
+    {
+      "id": "2026-11-05-tw-lens-selloff",
+      "label": "大立光（台股）",
+      "value": "4525 新台币",
+      "delta": "-9.68%",
+      "asof": "11-05 收盘",
+      "source": "台湾证交所 MIS",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-05-tw-lens-selloff",
+      "label": "玉晶光（台股）",
+      "value": "846 新台币",
+      "delta": "-9.90%",
+      "asof": "11-05 收盘",
+      "source": "台湾证交所 MIS",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-05-tw-lens-selloff",
+      "label": "台股加权指数",
+      "value": "41574.72 点",
+      "delta": "-3.20%",
+      "asof": "11-05 收盘",
+      "source": "台湾证交所 MIS",
+      "dir": -1
+    },
+    {
       "id": "2026-11-04-ashare-optics-rally",
       "label": "蓝特光学（A股）",
       "value": "43.03 元",
