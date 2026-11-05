@@ -2,6 +2,15 @@
   "label": "数据速览 · 摘自下方条目 · 非实时行情",
   "items": [
     {
+      "id": "2026-11-05-largan-oct-revenue",
+      "label": "大立光 10 月营收",
+      "value": "58.46 亿新台币",
+      "delta": "-7.05% YoY",
+      "asof": "11-05 申报",
+      "source": "公开资讯观测站",
+      "dir": -1
+    },
+    {
       "id": "2026-11-05-insta360-close-rally",
       "label": "影石创新（A股）",
       "value": "110.80 元",
