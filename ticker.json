@@ -2,6 +2,15 @@
   "label": "数据速览 · 摘自下方条目 · 非实时行情",
   "items": [
     {
+      "id": "2026-11-05-crystal-optech-buyback-board",
+      "label": "水晶光电回购",
+      "value": "1–2 亿元",
+      "delta": "≤28 元/股",
+      "asof": "11-05 董事会",
+      "source": "深交所公告 055",
+      "dir": 1
+    },
+    {
       "id": "2026-11-05-largan-oct-revenue",
       "label": "大立光 10 月营收",
       "value": "58.46 亿新台币",
