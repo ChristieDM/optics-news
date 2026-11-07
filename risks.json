@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07 08:10（北京时间）",
+  "updated": "2026-11-07 09:06（北京时间）",
   "subs": [
     "政策与地缘",
     "上下游供应链",
@@ -7,6 +7,38 @@
     "竞争格局"
   ],
   "items": [
+    {
+      "id": "risk-2026-11-07-lianchuang-debt",
+      "date": "2026-11-07",
+      "sub": "竞争格局",
+      "title": "联创电子子公司债务逾期合计约 4.23 亿元，占净资产约 40%",
+      "summary": "联创电子 11/7 公告：公司及子公司逾期债务与未兑付商票合计 42,283.78 万元（占最近一期经审计净资产 40.34%），本轮新增逾期约 1.07 亿元，涉及多家光学子公司；同日诉讼/仲裁新增涉案约 1.07 亿元。同行信用压力上升，对舜宇是间接竞争格局信号，订单影响无法由此推断。",
+      "impact": "中性",
+      "severity": "低",
+      "source": "深交所（联创电子债务逾期公告）",
+      "url": "https://disc.static.szse.cn/download/disc/disk03/finalpage/2026-11-07/123f4c42-cb4c-44db-8a4c-88cbf5f6d098.PDF",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-11-07 09:06",
+        "points": [
+          {
+            "claim": "逾期合计 42,283.78 万元、占净资产 40.34%",
+            "verdict": "一致",
+            "source": "深交所公告",
+            "url": "https://disc.static.szse.cn/download/disc/disk03/finalpage/2026-11-07/123f4c42-cb4c-44db-8a4c-88cbf5f6d098.PDF"
+          },
+          {
+            "claim": "本轮新增逾期约 10,723.41 万元；诉讼新增涉案约 10,667.42 万元",
+            "verdict": "一致",
+            "source": "深交所两份公告",
+            "url": "https://disc.static.szse.cn/download/disc/disk03/finalpage/2026-11-07/99f1b588-5508-4775-bffd-77c8a61a7604.PDF"
+          }
+        ],
+        "sources": [
+          "深圳证券交易所"
+        ]
+      }
+    },
     {
       "id": "risk-2026-10-31-nbs-pmi",
       "date": "2026-10-31",
