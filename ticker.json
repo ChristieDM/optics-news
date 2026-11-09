@@ -2,6 +2,24 @@
   "label": "数据速览 · 摘自下方条目 · 非实时行情",
   "items": [
     {
+      "id": "2026-11-09-tw-lens-rebound",
+      "label": "大立光（台股）",
+      "value": "4925 新台币",
+      "delta": "+9.93%",
+      "asof": "11-09 收盘",
+      "source": "台湾证交所",
+      "dir": 1
+    },
+    {
+      "id": "2026-11-09-tw-lens-rebound",
+      "label": "台股加权指数",
+      "value": "41661.70 点",
+      "delta": "+4.94%",
+      "asof": "11-09 收盘",
+      "source": "台湾证交所",
+      "dir": 1
+    },
+    {
       "id": "2026-11-07-lianchuang-debt-overdue",
       "label": "联创逾期债务",
       "value": "4.23 亿元",
