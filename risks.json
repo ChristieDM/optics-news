@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08 08:14（北京时间）",
+  "updated": "2026-11-09 08:13（北京时间）",
   "subs": [
     "政策与地缘",
     "上下游供应链",
@@ -7,6 +7,47 @@
     "竞争格局"
   ],
   "items": [
+    {
+      "id": "risk-2026-11-09-us-truce-extension",
+      "date": "2026-11-09",
+      "sub": "政策与地缘",
+      "title": "美方延长对华休战措施：BIS「关联方规则」暂停延至 2027-01-10，178 项 301 关税排除延至 1/9",
+      "summary": "美国商务部工业与安全局（BIS）11/9 在《联邦公报》发布最终规则，把「将实体清单等最终用户管制扩展到被列名企业关联公司」的暂停期从原定 11/9 结束延长至 2027 年 1 月 10 日；美国贸易代表办公室（USTR）11/6 通知，把现存全部 178 项对华 301 关税排除延长至 2027 年 1 月 9 日（美东时间）。中方对应的商务部 海关总署 2025 年第 70 号公告（暂停实施稀土等出口管制措施）写明暂停至 2026 年 11 月 10 日，截至 11/9 早商务部公告目录尚无延期公告。美方先行落地延期，短期出口管制/关税风险未升级；中方 11/10 到期安排待看。对舜宇是间接的政策环境信号，订单影响无法由此推断。",
+      "impact": "中性",
+      "severity": "中",
+      "source": "美国《联邦公报》（BIS 最终规则）/ USTR 通知 / 商务部公告",
+      "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22793/extension-of-the-suspension-of-expansion-of-end-user-controls-for-affiliates-of-certain-listed",
+      "factcheck": {
+        "status": "已核实",
+        "checked": "2026-11-09 08:13",
+        "points": [
+          {
+            "claim": "BIS 最终规则 11/9 刊登于《联邦公报》，「关联方规则」暂停原定 11/9 结束，延长至 2027 年 1 月 10 日",
+            "verdict": "一致",
+            "source": "Federal Register 2026-22793（BIS）",
+            "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22793/extension-of-the-suspension-of-expansion-of-end-user-controls-for-affiliates-of-certain-listed"
+          },
+          {
+            "claim": "USTR 将现存全部 178 项对华 301 关税排除延长至 2027 年 1 月 9 日 23:59（美东时间）",
+            "verdict": "一致",
+            "source": "USTR 联邦公报通知原文",
+            "url": "https://ustr.gov/sites/default/files/files/Issue_Areas/Enforcement/Section%20301/USTR%20FRN%20Extending%20Section%20301%20China%20FTT%20Exclusions%20to%20Jan%202027.pdf"
+          },
+          {
+            "claim": "商务部 海关总署 2025 年第 70 号公告暂停实施至 2026 年 11 月 10 日；2026 年公告目录最新出口管制公告仍为 10/19 第 49–52 号",
+            "verdict": "一致",
+            "source": "商务部",
+            "url": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_b1ec77dd3f0d4762952904df7cdaadec.html"
+          }
+        ],
+        "sources": [
+          "美国联邦公报（BIS）",
+          "USTR",
+          "商务部"
+        ],
+        "note": "USTR 通知 11/6 发布、BIS 规则 11/5 已在联邦公报公开预览、11/9 正式刊登，此前未收录，今日收录。商务部公告目录核查页：https://www.mofcom.gov.cn/zcfb/blgg/gg/2026/index.html。「短期风险未升级」「对舜宇是间接影响」为我们的判断。"
+      }
+    },
     {
       "id": "risk-2026-11-07-lianchuang-debt",
       "date": "2026-11-07",
