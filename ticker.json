@@ -20,24 +20,6 @@
       "dir": 1
     },
     {
-      "id": "2026-11-07-lianchuang-debt-overdue",
-      "label": "联创逾期债务",
-      "value": "4.23 亿元",
-      "delta": "占净资产 40.34%",
-      "asof": "11-07 公告",
-      "source": "深交所 078",
-      "dir": 1
-    },
-    {
-      "id": "2026-11-07-crystal-optech-buyback-top10",
-      "label": "水晶回购股东披露",
-      "value": "星星集团 8.90%",
-      "delta": "程序性披露",
-      "asof": "11-07 公告",
-      "source": "深交所 057",
-      "dir": 1
-    },
-    {
       "id": "2026-11-05-crystal-optech-buyback-board",
       "label": "水晶光电回购",
       "value": "1–2 亿元",
