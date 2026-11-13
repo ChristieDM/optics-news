@@ -2,6 +2,24 @@
   "label": "数据速览 · 摘自下方条目 · 非实时行情",
   "items": [
     {
+      "id": "2026-11-13-largan-genius-limitup",
+      "label": "大立光（台股）",
+      "value": "5560 新台币",
+      "delta": "+9.99%",
+      "asof": "11-13 盘中",
+      "source": "台湾证交所",
+      "dir": 1
+    },
+    {
+      "id": "2026-11-13-largan-genius-limitup",
+      "label": "玉晶光（台股）",
+      "value": "1075 新台币",
+      "delta": "+9.69%",
+      "asof": "11-13 盘中",
+      "source": "台湾证交所",
+      "dir": 1
+    },
+    {
       "id": "2026-11-12-largan-drop",
       "label": "大立光（台股）",
       "value": "5055 新台币",
