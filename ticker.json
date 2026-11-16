@@ -2,6 +2,33 @@
   "label": "数据速览 · 摘自下方条目 · 非实时行情",
   "items": [
     {
+      "id": "2026-11-16-hk-optics-selloff",
+      "label": "舜宇光学（港股）",
+      "value": "63.65 港元",
+      "delta": "−3.34%",
+      "asof": "11-16 收盘",
+      "source": "新浪/腾讯行情",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-16-hk-optics-selloff",
+      "label": "瑞声科技（港股）",
+      "value": "34.44 港元",
+      "delta": "−6.21%",
+      "asof": "11-16 收盘",
+      "source": "新浪/腾讯行情",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-16-hk-optics-selloff",
+      "label": "恒生指数",
+      "value": "23753.84 点",
+      "delta": "+0.49%",
+      "asof": "11-16 收盘",
+      "source": "新浪/腾讯行情",
+      "dir": 1
+    },
+    {
       "id": "2026-11-16-ashare-optics-selloff",
       "label": "蓝特光学（A股）",
       "value": "40.70 元",
