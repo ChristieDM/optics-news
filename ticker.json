@@ -2,6 +2,33 @@
   "label": "数据速览 · 摘自下方条目 · 非实时行情",
   "items": [
     {
+      "id": "2026-11-16-tw-lens-limitdown",
+      "label": "大立光（台股）",
+      "value": "4780 新台币",
+      "delta": "−9.98%",
+      "asof": "11-16 收盘",
+      "source": "台湾证交所",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-16-tw-lens-limitdown",
+      "label": "玉晶光（台股）",
+      "value": "889 新台币",
+      "delta": "−9.93%",
+      "asof": "11-16 收盘",
+      "source": "台湾证交所",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-16-tw-lens-limitdown",
+      "label": "台股加权指数",
+      "value": "41040.08 点",
+      "delta": "−6.03%",
+      "asof": "11-16 收盘",
+      "source": "台湾证交所",
+      "dir": -1
+    },
+    {
       "id": "2026-11-13-largan-genius-limitup",
       "label": "大立光（台股）",
       "value": "5310 新台币",
