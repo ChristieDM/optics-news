@@ -2,6 +2,42 @@
   "label": "数据速览 · 摘自下方条目 · 非实时行情",
   "items": [
     {
+      "id": "2026-11-17-tw-lens-selloff",
+      "label": "大立光（台股）",
+      "value": "4515 新台币",
+      "delta": "−5.54%",
+      "asof": "11-17 收盘",
+      "source": "台湾证交所",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-17-tw-lens-selloff",
+      "label": "玉晶光（台股）",
+      "value": "820 新台币",
+      "delta": "−7.76%",
+      "asof": "11-17 收盘",
+      "source": "台湾证交所",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-17-tw-lens-selloff",
+      "label": "台股加权指数",
+      "value": "40092.11 点",
+      "delta": "−2.31%",
+      "asof": "11-17 收盘",
+      "source": "台湾证交所",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-17-insta360-close-rally",
+      "label": "影石创新（A股）",
+      "value": "115.20 元",
+      "delta": "+14.09%",
+      "asof": "11-17 收盘",
+      "source": "新浪/腾讯行情",
+      "dir": 1
+    },
+    {
       "id": "2026-11-16-hk-optics-selloff",
       "label": "舜宇光学（港股）",
       "value": "63.65 港元",
