@@ -2,6 +2,24 @@
   "label": "数据速览 · 摘自下方条目 · 非实时行情",
   "items": [
     {
+      "id": "2026-11-19-lianchuang-close-drop",
+      "label": "联创电子（A股）",
+      "value": "4.88 元",
+      "delta": "−7.22%",
+      "asof": "11-19 收盘",
+      "source": "深交所/新浪/腾讯",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-19-lianchuang-close-drop",
+      "label": "上证指数",
+      "value": "3577.62 点",
+      "delta": "−0.28%",
+      "asof": "11-19 收盘",
+      "source": "新浪/腾讯行情",
+      "dir": -1
+    },
+    {
       "id": "2026-11-19-tw-lens-selloff",
       "label": "大立光（台股）",
       "value": "3980 新台币",
