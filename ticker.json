@@ -2,6 +2,33 @@
   "label": "数据速览 · 摘自下方条目 · 非实时行情",
   "items": [
     {
+      "id": "2026-11-19-tw-lens-selloff",
+      "label": "大立光（台股）",
+      "value": "3980 新台币",
+      "delta": "−9.75%",
+      "asof": "11-19 收盘",
+      "source": "台湾证交所",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-19-tw-lens-selloff",
+      "label": "玉晶光（台股）",
+      "value": "720 新台币",
+      "delta": "−10.00%",
+      "asof": "11-19 收盘",
+      "source": "台湾证交所",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-19-tw-lens-selloff",
+      "label": "台股加权指数",
+      "value": "38426.89 点",
+      "delta": "−4.40%",
+      "asof": "11-19 收盘",
+      "source": "台湾证交所",
+      "dir": -1
+    },
+    {
       "id": "2026-11-17-tw-lens-selloff",
       "label": "大立光（台股）",
       "value": "4515 新台币",
