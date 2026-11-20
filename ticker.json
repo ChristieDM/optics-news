@@ -2,6 +2,42 @@
   "label": "数据速览 · 摘自下方条目 · 非实时行情",
   "items": [
     {
+      "id": "2026-11-20-ashare-optics-selloff",
+      "label": "联创电子（A股）",
+      "value": "4.43 元",
+      "delta": "−9.22%",
+      "asof": "11-20 收盘",
+      "source": "深交所/新浪/腾讯",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-20-ashare-optics-selloff",
+      "label": "蓝特光学（A股）",
+      "value": "36.79 元",
+      "delta": "−8.57%",
+      "asof": "11-20 收盘",
+      "source": "新浪/腾讯行情",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-20-ashare-optics-selloff",
+      "label": "欧菲光（A股）",
+      "value": "4.94 元",
+      "delta": "−5.00%",
+      "asof": "11-20 收盘",
+      "source": "深交所/新浪/腾讯",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-20-ashare-optics-selloff",
+      "label": "上证指数",
+      "value": "3533.79 点",
+      "delta": "−1.23%",
+      "asof": "11-20 收盘",
+      "source": "新浪/腾讯行情",
+      "dir": -1
+    },
+    {
       "id": "2026-11-20-tw-lens-selloff",
       "label": "大立光（台股）",
       "value": "3670 新台币",
