@@ -2,6 +2,33 @@
   "label": "数据速览 · 摘自下方条目 · 非实时行情",
   "items": [
     {
+      "id": "2026-11-20-tw-lens-selloff",
+      "label": "大立光（台股）",
+      "value": "3670 新台币",
+      "delta": "−7.79%",
+      "asof": "11-20 收盘",
+      "source": "台湾证交所",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-20-tw-lens-selloff",
+      "label": "玉晶光（台股）",
+      "value": "648 新台币",
+      "delta": "−10.00%",
+      "asof": "11-20 收盘",
+      "source": "台湾证交所",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-20-tw-lens-selloff",
+      "label": "台股加权指数",
+      "value": "36033.29 点",
+      "delta": "−6.23%",
+      "asof": "11-20 收盘",
+      "source": "台湾证交所",
+      "dir": -1
+    },
+    {
       "id": "2026-11-19-lianchuang-close-drop",
       "label": "联创电子（A股）",
       "value": "4.88 元",
