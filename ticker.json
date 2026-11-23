@@ -2,6 +2,69 @@
   "label": "数据速览 · 摘自下方条目 · 非实时行情",
   "items": [
     {
+      "id": "2026-11-23-sunny-close-rally",
+      "label": "舜宇光学（港股）",
+      "value": "62.45 港元",
+      "delta": "+6.75%",
+      "asof": "11-23 收盘",
+      "source": "新浪/腾讯行情",
+      "dir": 1
+    },
+    {
+      "id": "2026-11-23-sunny-close-rally",
+      "label": "恒生指数",
+      "value": "22383.74 点",
+      "delta": "−0.12%",
+      "asof": "11-23 收盘",
+      "source": "新浪/腾讯行情",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-23-ashare-optics-rally",
+      "label": "联创电子（A股）",
+      "value": "4.87 元",
+      "delta": "+9.93%",
+      "asof": "11-23 收盘",
+      "source": "深交所/新浪/腾讯",
+      "dir": 1
+    },
+    {
+      "id": "2026-11-23-ashare-optics-rally",
+      "label": "影石创新（A股）",
+      "value": "114.85 元",
+      "delta": "+5.99%",
+      "asof": "11-23 收盘",
+      "source": "新浪/腾讯行情",
+      "dir": 1
+    },
+    {
+      "id": "2026-11-23-ashare-optics-rally",
+      "label": "蓝特光学（A股）",
+      "value": "38.80 元",
+      "delta": "+5.46%",
+      "asof": "11-23 收盘",
+      "source": "新浪/腾讯行情",
+      "dir": 1
+    },
+    {
+      "id": "2026-11-23-ashare-optics-rally",
+      "label": "水晶光电（A股）",
+      "value": "21.92 元",
+      "delta": "+5.23%",
+      "asof": "11-23 收盘",
+      "source": "深交所/新浪/腾讯",
+      "dir": 1
+    },
+    {
+      "id": "2026-11-23-ashare-optics-rally",
+      "label": "上证指数",
+      "value": "3538.95 点",
+      "delta": "+0.15%",
+      "asof": "11-23 收盘",
+      "source": "新浪/腾讯行情",
+      "dir": 1
+    },
+    {
       "id": "2026-11-20-ashare-optics-selloff",
       "label": "联创电子（A股）",
       "value": "4.43 元",
