@@ -2,6 +2,105 @@
   "label": "数据速览 · 摘自下方条目 · 非实时行情",
   "items": [
     {
+      "id": "2026-11-25-hk-optics-selloff",
+      "label": "舜宇光学（港股）",
+      "value": "61.15 港元",
+      "delta": "−3.47%",
+      "asof": "11-25 收盘",
+      "source": "新浪/腾讯行情",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-25-hk-optics-selloff",
+      "label": "恒生指数",
+      "value": "21966.01 点",
+      "delta": "−1.14%",
+      "asof": "11-25 收盘",
+      "source": "新浪/腾讯行情",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-25-hk-optics-selloff",
+      "label": "高伟电子（港股）",
+      "value": "19.05 港元",
+      "delta": "−5.60%",
+      "asof": "11-25 收盘",
+      "source": "新浪/腾讯行情",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-25-hk-optics-selloff",
+      "label": "丘钛科技（港股）",
+      "value": "3.515 港元",
+      "delta": "−5.64%",
+      "asof": "11-25 收盘",
+      "source": "新浪/腾讯行情",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-25-ashare-optics-selloff",
+      "label": "蓝特光学（A股）",
+      "value": "36.59 元",
+      "delta": "−6.90%",
+      "asof": "11-25 收盘",
+      "source": "新浪/腾讯行情",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-25-ashare-optics-selloff",
+      "label": "水晶光电（A股）",
+      "value": "21.54 元",
+      "delta": "−5.32%",
+      "asof": "11-25 收盘",
+      "source": "深交所/新浪/腾讯",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-25-ashare-optics-selloff",
+      "label": "上证指数",
+      "value": "3476.47 点",
+      "delta": "−2.03%",
+      "asof": "11-25 收盘",
+      "source": "新浪/腾讯行情",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-24-lianchuang-limitup",
+      "label": "联创电子（A股）",
+      "value": "5.36 元",
+      "delta": "+10.06%",
+      "asof": "11-24 收盘",
+      "source": "深交所/新浪/腾讯",
+      "dir": 1
+    },
+    {
+      "id": "2026-11-24-tw-lens-rally",
+      "label": "大立光（台股）",
+      "value": "3980 新台币",
+      "delta": "+9.94%",
+      "asof": "11-24 收盘",
+      "source": "台湾证交所",
+      "dir": 1
+    },
+    {
+      "id": "2026-11-24-tw-lens-rally",
+      "label": "玉晶光（台股）",
+      "value": "734 新台币",
+      "delta": "+9.88%",
+      "asof": "11-24 收盘",
+      "source": "台湾证交所",
+      "dir": 1
+    },
+    {
+      "id": "2026-11-24-tw-lens-rally",
+      "label": "台股加权指数",
+      "value": "40122.35 点",
+      "delta": "+8.99%",
+      "asof": "11-24 收盘",
+      "source": "台湾证交所",
+      "dir": 1
+    },
+    {
       "id": "2026-11-23-sunny-close-rally",
       "label": "舜宇光学（港股）",
       "value": "62.45 港元",
