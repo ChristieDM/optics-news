@@ -2,6 +2,96 @@
   "label": "数据速览 · 摘自下方条目 · 非实时行情",
   "items": [
     {
+      "id": "2026-11-27-hk-optics-rally",
+      "label": "舜宇光学（港股）",
+      "value": "64.75 港元",
+      "delta": "+6.41%",
+      "asof": "11-27 收盘",
+      "source": "新浪/腾讯行情",
+      "dir": 1
+    },
+    {
+      "id": "2026-11-27-hk-optics-rally",
+      "label": "恒生指数",
+      "value": "22694.77 点",
+      "delta": "+2.11%",
+      "asof": "11-27 收盘",
+      "source": "新浪/腾讯行情",
+      "dir": 1
+    },
+    {
+      "id": "2026-11-27-hk-optics-rally",
+      "label": "瑞声科技（港股）",
+      "value": "33.46 港元",
+      "delta": "+6.29%",
+      "asof": "11-27 收盘",
+      "source": "新浪/腾讯行情",
+      "dir": 1
+    },
+    {
+      "id": "2026-11-27-ashare-optics-rally",
+      "label": "蓝特光学（A股）",
+      "value": "42.78 元",
+      "delta": "+16.57%",
+      "asof": "11-27 收盘",
+      "source": "新浪/腾讯行情",
+      "dir": 1
+    },
+    {
+      "id": "2026-11-27-ashare-optics-rally",
+      "label": "宇瞳光学（A股）",
+      "value": "14.56 元",
+      "delta": "+11.32%",
+      "asof": "11-27 收盘",
+      "source": "深交所/新浪/腾讯",
+      "dir": 1
+    },
+    {
+      "id": "2026-11-27-ashare-optics-rally",
+      "label": "影石创新（A股）",
+      "value": "116.85 元",
+      "delta": "+10.09%",
+      "asof": "11-27 收盘",
+      "source": "新浪/腾讯行情",
+      "dir": 1
+    },
+    {
+      "id": "2026-11-27-ashare-optics-rally",
+      "label": "上证指数",
+      "value": "3606.49 点",
+      "delta": "+3.73%",
+      "asof": "11-27 收盘",
+      "source": "新浪/腾讯行情",
+      "dir": 1
+    },
+    {
+      "id": "2026-11-27-tw-gseo-drop",
+      "label": "玉晶光（台股）",
+      "value": "708 新台币",
+      "delta": "−7.69%",
+      "asof": "11-27 收盘",
+      "source": "台湾证交所",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-27-tw-gseo-drop",
+      "label": "大立光（台股）",
+      "value": "4235 新台币",
+      "delta": "−4.29%",
+      "asof": "11-27 收盘",
+      "source": "台湾证交所",
+      "dir": -1
+    },
+    {
+      "id": "2026-11-27-tw-gseo-drop",
+      "label": "台股加权指数",
+      "value": "39308.08 点",
+      "delta": "+0.40%",
+      "asof": "11-27 收盘",
+      "source": "台湾证交所",
+      "dir": 1
+    },
+    {
       "id": "2026-11-26-tw-lens-rally",
       "label": "大立光（台股）",
       "value": "4425 新台币",
